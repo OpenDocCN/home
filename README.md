@@ -1,4 +1,4 @@
-<h1 align="center">DracoUnion·龙哥盟</h1>
+<h1 align="center">DracoUnion 龙哥盟</h1>
 <p align="center">掠夺·扩张·投机·博弈</p>
 
 ---
