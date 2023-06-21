@@ -1,5 +1,5 @@
-<h1 align="center">iBooker 布客</h1>
-<p align="center">布道·开源·智能·极客</p>
+<h1 align="center">DracoUnion·龙哥盟</h1>
+<p align="center">掠夺·扩张·投机·博弈</p>
 
 ---
 
@@ -9,10 +9,8 @@
 ## **公告**
 
 1.  我们正式启动 Web3 改造计划，希望技术圈的各位积极献言献策。
-1.  我们重启了简历付费优化业务，请咨询飞龙（🐧562826179，🛰wizardforcel）。
-1.  我们正式启动【对内养蛊、对外扩张】策略，所有成员的个人行为均代表整个社区。无论你走到哪里，布客都是你的强大后盾！
+1.  我们正式启动【对内养蛊、对外扩张】策略，所有成员的个人行为均代表整个社区。无论你走到哪里，龙哥盟都是你的强大后盾！
 1.  我们始终与所有创作者站在一起，为创作自由而战。我们还会提供一切必要的技术支持。
-1.  我们社区没有整理 k12 课件的任何计划，因为我们拒绝为应试教育添砖加瓦。
 1.  请各位（尤其是培训班）不要妄图干扰我们的公益活动，否则我们将会使用可以动用的任何手段（包括户籍出道、舆论压制、线下制裁、玄学诅咒）给予还击！
 
 <!--endannounce-->
@@ -75,114 +73,30 @@
 >
 > 宣传应当是你的产品的不可分割的一部分，它和内容同等重要，并且可以借助技术做得更好。五分内容五分宣传，这就是五五开定律。
 
-<!--intro-->
 
-## **组织介绍**
-
-> 我们是布客（iBooker），一个大型开源社区、自媒体和网赚社区，旗下 QQ 群共一万余人，订阅用户至少一万人。Github Star 数量超过 60k 个，在所有 Github 组织中[排名前 100][top100]。旗下所有网站日 uip 超过 4k，[Alexa 排名的峰值为 20k][top20k]。我们的核心成员拥有[ CSDN 博客专家][csdn-pro]和[简书程序员优秀作者][js-pro]认证。我们建立了公益性文档和教程翻译项目 [ApacheCN][apachecn]。
-> 
-> 与商业组织不同，我们并不会追逐热点，或者唯利是图。作为公益组织，我们将完成项目放在首要位置，并有足够时间把项目打磨到极致。我们希望做出广大 AI 爱好者和个人开发者真正需要的东西，打造真正有价值的长尾作品。
-
-[top100]: https://gitstar-ranking.com/apachecn
-[top20k]: http://home.apachecn.org/img/about/alexa_201906.png
-[csdn-pro]: https://blog.csdn.net/wizardforcel
-[js-pro]: https://www.jianshu.com/u/b508a6aa98eb
-[apachecn]: https://github.com/apachecn
-
-* [主页：apachecn.org](http://apachecn.org)
-* [导航：docs.apachecn.org](https://docs.apachecn.org/)
-* [知识星球：iBooker 布客](https://t.zsxq.com/Jq3vZZB)
-* [看云：@ApacheCN](https://www.kancloud.cn/@apachecn)
-* [语雀：@ApacheCN](https://yuque.com/apachecn)
-* 代码仓库
-    * [Github：@ApacheCN](https://github.com/apachecn)
-    * [Gitee：@ApacheCN](https://gitee.com/apachecn)
-    * [CodeChina：@ApacheCN](https://codechina.csdn.net/apachecn)
-* 自媒体平台
-    * [微博：@ApacheCN](https://weibo.com/u/6326715527)
-    * [知乎专栏：AILearning](https://zhuanlan.zhihu.com/apachecn-mlia)
-    * [公众号：ApacheCN](http://home.apachecn.org/img/qr/apachecn_qr.jpg)
-    * [CSDN][csdn]／[博客园][cnblogs]／[OSChina][osc]／[SF][sf]／[掘金][juejin]
-    * [简书][jianshu]／[搜狐号][sohu-mp]／[头条号][toutiao-mp]／[bilibili][bili]
-* **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
-* 合作 or 侵权，请联系 <apachecn@163.com> | 请抄送一份到 <wizard.z@foxmail.com>
-
-[csdn]: https://blog.csdn.net/wizardforcel/article/category/8437073
-[cnblogs]: https://www.cnblogs.com/apachecn
-[osc]: https://my.oschina.net/u/1777350?tab=newest&catalogId=6512710
-[sf]: https://segmentfault.com/blog/flygon
-[juejin]: https://juejin.im/user/57960af3128fe10056c637e4/posts
-[jianshu]: https://www.jianshu.com/c/4ee721d0c474
-[sohu-mp]: https://mp.sohu.com/profile?xpt=NDhjYmViMzMtZWE2Yi00NTlmLWE3OTQtY2FjNjIwNDBlZDJl
-[toutiao-mp]: https://www.toutiao.com/c/user/3901644178/
-[bili]: http://space.bilibili.com/97678687
-
-![](http://home.apachecn.org/img/qr/apachecn_qr.jpg)
-
-<!--endintro-->
-
-## **交流方式**
-
-> 客服人员
-
-- QQ: 529815144
-- 【推荐: 建议加QQ，再邀请微信群（包括: 财务微信群、正经微信群、不正经微信群） - 目前已经封了2个微信群】
-- 其中为了防止被封，有TG群: <https://t.me/awhile2icu> 【本群不维护，封群后提供新QQ群的位置】
-
-| 时间 | 群人数  | 群名称  | 群号  | 
-| --- | --- | --- | --- |
-| 2021-05-19 | 1000 | 1062944139 | 读书会-财富自由群 |
-| 2020-11-02 | 1000 | 1049896590 | 券商开户免5群 |
-| 2022-10-23 | 2000 | 979932878  | 【羊村】求职面试群 4 |
-| 2017-09-01 | 2000 | 915394271  | 【羊村】职场装逼群 3 | 
-| 2019-09-17 | 1000 | 713436582  | PyTorch 中文翻译组 | 
-| 2018-05-02 | 2000 | 152622464  | 大数据-2 | 
-| 2014-04-12 | 2000 | 214293307  | 大数据-1 | 
-|  |  |  |  |
-| 2018-02-07 | 3000 | ~~724187166~~  | 2.面试求职(2022-10-23 封) | 
-| 2017-09-01 | 3000 | ~~629470233~~  | 1.机器学习(2020-01-03 封) | 
-
-组织口号: <strong><span style="color: #ff0000;">不装逼的朋友，我们都不想认识 。。</span></strong>
 
 ## **协议**
 
 以各项目协议为准。
 
-ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)。
+OpenDocCN 以及 ixinzhi 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)。
 
 霞鹜文楷采用 [SIL 开放字体协议 1.1](https://github.com/lxgw/LxgwWenKai/blob/main/SIL_Open_Font_License_1.1.txt)。
 
-## **捐赠列表**
+## 赞助我
 
-* 捐赠名单: [捐赠名单.html](/docs/donate/README.md)
-* 捐赠方式: 请直接扫描绿帽二维码(微信和支付宝都行)
-
-![](img/qr/zfb_wx.png)
-
-## GitHub Star Rank
-
-> 全球组织排名
-
-![](img/donate/starrank_org.png)
-
-> 组织内部排名
-
-![](img/donate/starrank_github.png)
+![](https://img-blog.csdnimg.cn/20200112005920729.png)
 
 ## **鸣谢**
 
 | | | |
 | --- | --- | --- |
-| ![](img/avatar/datawhale.png) | ![](img/avatar/aiyoudao.png) | ![](img/avatar/aistart.png) | 
-| [Datawhale][datawhale] | [AI 有道][aiyoudao] | [AIStart][huanghaiguang] | 
 | ![](img/avatar/pycn.png) | ![](img/avatar/258ch.png) | ![](img/avatar/hacpai.png) |
 | [PythonChina][pycn] | [苍海国际][258ch] | [黑客派/B3log][hacpai] |
-| ![](img/avatar/gia.png) | | ![](img/avatar/seancheney.png) |
-| [GirlsInAI][gia] | [DataSciComp][datascicomp] | [SeanCheney][seancheney] |
-|  ![](img/avatar/aikeji.png) | ![](img/avatar/hsury.png) | ![](img/avatar/flyai.png) |
-|  [AI 科技大本营][aikeji] | [Hsury/BiliDrive][bdrive] | [FlyAI][flyai] |
-| ![](img/avatar/tesra.png) | ![](img/avatar/zlib.png) | ![](img/avatar/skypool.png) |
-| [Tesra][tesra] | [Zlibrary][zlib] | [Skypool][skypool] |
+| ![](img/avatar/seancheney.png) | ![](img/avatar/hsury.png) | |
+| [SeanCheney][seancheney] | [Hsury/BiliDrive][bdrive] | |
+|  | ![](img/avatar/zlib.png) | ![](img/avatar/skypool.png) |
+| | [Zlibrary][zlib] | [Skypool][skypool] |
 | ![](https://cdn.jsdelivr.net/npm/oicdn@0.0.1/wordArt.webp) | ![](https://tvax1.sinaimg.cn/crop.0.0.1080.1080.180/0081Jg9Qly8h0x9q2zaewj30u00u00uu.jpg?KID=imgbed,tva&Expires=1654937897&ssig=o5V72Klxkc) | ![](https://wx4.sinaimg.cn/large/002aANWlly8gz8tcs7j6lj60dw0dwaao02.jpg) |
 | [OI Wiki][oiwiki] | [小宇学长][langji] | [丁鹏][dingpeng] |
 | ![](img/avatar/run.png) | ![](https://pic2.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_xll.jpg?source=32738c0c) | ![](https://pic3.zhimg.com/v2-ba133a75917a5c871c07ec3e816e3f0d_xll.jpg?source=32738c0c) |
@@ -223,23 +137,19 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 | Jaybo | https://strivebo.com |
 | 跑跑后花园 | https://bbs.popkart.org/ |
 
-## 下载编译
+## 下载
 
-**选择其中任意一种方式就行！**
+### Docker
 
 ```
-## 方式1: Docker ##
-docker pull apachecn0/apachecn-home
-docker run -tid -p <port>:80 apachecn0/apachecn-home
+docker pull apachecn0/flygon-home
+docker run -tid -p <port>:80 apachecn0/flygon-home
 # 访问 http://localhost:{port} 查看文档
+```
+### NPM
 
-## 方式2: PYPI ##
-pip install apachecn-home
-apachecn-home <port>
-# 访问 http://localhost:{port} 查看文档
-
-## 方式3: NPM ##
-npm install -g apachecn-home
-apachecn-home <port>
+```
+npm install -g flygon-home
+flygon-home <port>
 # 访问 http://localhost:{port} 查看文档
 ```
