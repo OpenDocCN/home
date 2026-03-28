@@ -406,14 +406,12 @@
 
 | 英文名 | 最高版本 | 中文名 | 中文版本 |
 |---|---|---|---|
-| Building AI-Powered Apps with Angular |  |  |  |
 | AI for Creative Production |  |  |  |
 | The GitHub Copilot Handbook |  |  |  |
 | Agentic Architectural Patterns for Building Multi-Agent Systems |  |  |  |
 | The Profitable AI Advantage |  |  |  |
 | The AI Optimization Playbook |  |  |  |
 | Architectures for the Intelligent AI-Ready Enterprise |  |  |  |
-| 30 Agents Every AI Engineer Must Build |  |  |  |
 | Mastering Enterprise Platform Engineering: |  |  |  |
 | Procurement Science / Generative AI for 90% More Efficient RFP Planning and Generation |  |  |  |
 | Lucidis Case Report / Generative AI for 80% Reduction in Work Order Processing Time |  |  |  |
