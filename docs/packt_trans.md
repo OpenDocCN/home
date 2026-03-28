@@ -6,6 +6,7 @@
 |---|---|---|---|
 | Managing Data as a Product |  |  |  |
 | Causal Inference in R |  |  |  |
+| Bioinformatics with Python Cookbook | 4e | Python 生物信息学秘籍第三版 |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -134,7 +135,6 @@
 | Data Science Projects with Python | 2e | Python 数据科学项目第二版 |  |
 | Numerical Computing with Python |  | Python 数值计算 |  |
 | Interactive Dashboards and Data Apps with Plotly and Dash |  | Plotly 和 Dash 智能仪表盘和数据应用 |  |
-| Bioinformatics with Python Cookbook | 3e | Python 生物信息学秘籍第三版 |  |
 | Matplotlib for Python Developers | 2e | Python 开发者的 Matplotlib 指南第二版 |  |
 | 40 Algorithms Every Programmer Should Know  |  | 每个程序员都应该知道的 40 个算法 |  |
 | Applied Computational Thinking with Python |  | Python 应用计算思维 |  |
@@ -406,6 +406,33 @@
 
 | 英文名 | 最高版本 | 中文名 | 中文版本 |
 |---|---|---|---|
+| Building AI-Powered Apps with Angular |  |  |  |
+| AI for Creative Production |  |  |  |
+| The GitHub Copilot Handbook |  |  |  |
+| Agentic Architectural Patterns for Building Multi-Agent Systems |  |  |  |
+| The Profitable AI Advantage |  |  |  |
+| The AI Optimization Playbook |  |  |  |
+| Architectures for the Intelligent AI-Ready Enterprise |  |  |  |
+| 30 Agents Every AI Engineer Must Build |  |  |  |
+| Mastering Enterprise Platform Engineering: |  |  |  |
+| Procurement Science / Generative AI for 90% More Efficient RFP Planning and Generation |  |  |  |
+| Lucidis Case Report / Generative AI for 80% Reduction in Work Order Processing Time |  |  |  |
+| Medloaner Report / AI for 90% Reduction in Surgical Instrument Kit Processing Time |  |  |  |
+| Learn Model Context Protocol with Python |  |  |  |
+| Azure AI-102 Certification Essentials |  |  |  |
+| Digital Transformation With The Power Platform / The Power Platform Playbook for Digital Transformation |  |  |  |
+| Microsoft PowerPoint Mastery |  |  |  |
+| The Chief Ai Officer's Handbook |  |  |  |
+| Unlocking Data with Generative AI and RAG | 2e |  |  |
+| Architecting AI Software Systems |  |  |  |
+| AI Ethics in Action |  |  |  |
+| Power Platform and the AI Revolution |  |  |  |
+| Unlocking the Secrets of Prompt Engineering |  |  |  |
+| Microsoft Dynamics 365 AI for Business Insights |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Practical Generative AI with ChatGPT |  |  |  |
 | Supercharged Coding with GenAI |  |  |  |
 | ChatGPT for Accelerating Salesforce Development |  |  |  |
@@ -415,10 +442,6 @@
 | ChatGPT for Conversational AI and Chatbots |  |  |  |
 | The Future of Finance with ChatGPT and Power BI |  |  |  |
 | ChatGPT Prompts Book |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 | AI Strategies for Web Development |  |  |  |
 | LLM Design Patterns |  |  |  |
 | Building Neo4j-Powered Applications with LLMs |  |  |  |
@@ -435,7 +458,6 @@
 | Practical game AI programming |  |  |  |
 | Practical Generative AI with ChatGPT | 2e |  |  |
 | RAG-Driven Generative AI |  |  |  |
-| Unlocking Data with Generative AI and RAG |  |  |  |
 | Building AI Agents with LLMs, RAG, and Knowledge Graphs |  |  |  |
 | Building Business-Ready Generative AI Systems |  |  |  |
 | Generative AI for Core Product Evolution in Recruitment |  |  |  |
@@ -1032,6 +1054,12 @@
 
 | 英文名 | 最高版本 | 中文名 | 中文版本 |
 |---|---|---|---|
+| Microsoft Security Copilot |  |  |  |
+| AI-Native LLM Security |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Hands-On Machine Learning for Cybersecurity |  |  |  |
 | Security Automation with Python: |  |  |  |
 | PYTHON FOR SECURITY AND NETWORKING |  |  |  |
