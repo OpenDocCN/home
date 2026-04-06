@@ -152,6 +152,35 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| GPU-Accelerated Deep Learning |  |  |  |
+| Hands-On Deep Learning |  |  |  |
+| Deep Reinforcement Learning with Python |  |  |  |
+| Beginning Anomaly Detection Using Python-Based Deep Learning | 2e |  |  |
+| MODERN DEEP LEARNING FOR TABULAR DATA |  |  |  |
+| SYNTHETIC DATA FOR DEEP LEARNING  |  |  |  |
+| Pro Deep Learning with TensorFlow 2.0 |  |  |  |
+| Practical MATLAB Deep Learning |  |  |  |
+| Data fabric and data mesh approaches with AI |  |  |  |
+| Applied Recommender Systems with Python |  |  |  |
+| Intelligent Autonomous Drones with Cognitive Deep Learning |  |  |  |
+| Applied Deep Learning with TensorFlow 2 |  |  |  |
+| AUTOMATED DEEP LEARNING USING NEURAL NETWORK INTELLIGENCE |  |  |  |
+| STATE-OF-THE-ART DEEP LEARNING MODELS IN TENSORFLOW |  |  |  |
+| Deep Learning on Windows |  |  |  |
+| Modern Deep Learning Design and Application Development  |  |  |  |
+| TensorFlow 2.x in the Colaboratory Cloud |  |  |  |
+| Learn TensorFlow 2.0 |  |  |  |
+| Deep Reinforcement Learning in Unity |  |  |  |
+| Practical TensorFlow.js |  |  |  |
+| Deep Learning Pipeline |  |  |  |
+| Building Machine Learning and Deep Learning Models on Google Cloud Platform |  |  |  |
+| Applied Deep Learning |  |  |  |
+| Deep Learning with Azure |  |  |  |
+| Beginning AI Bot Frameworks |  |  |  |
+| MATLAB Deep Learning |  |  |  |
+| Beginning Artificial Intelligence with the Raspberry Pi |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Advanced Applied Deep Learning | | 深度学习高级应用指南 | |
 | AI for Healthcare with Keras and Tensorflow 2.0 | | 面向医疗保健的 Keras 和 TensorFlow2 人工智能教程 | |
 | Applied Natural Language Processing with Python | | Python 自然语言处理应用指南 | |
@@ -177,6 +206,14 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Learn PySpark |  |  |  |
+| Advanced Data Analytics Using Python |  |  |  |
+| Python Data Analytics With Pandas, NumPy, and Matplotlib |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Advanced R Statistical Programming and Data Models | | R 统计编程和数据建模高级教程 | |
 | Arduino in Science | | 用于科研的 Arduino 教程 | |
 | Beginning Apache Spark 3 | | Spark3 入门指南 | |
@@ -428,6 +465,12 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Time Series Algorithms Recipes |  |  |  |
+| Hyperparameter Optimization in Machine Learning |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Beginning Robotics with Raspberry Pi and Arduino Using Python and OpenCV | | 树莓派和 Arduino 机器人入门手册 | |
 | Building Computer Vision Applications Using Artificial Neural Networks | | ANN 计算机视觉应用构建指南 | |
 | Convolutional Neural Networks with Swift for Tensorflow | | TensorFlow CNN 与 Swift 教程 | |
