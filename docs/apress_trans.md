@@ -179,8 +179,6 @@
 | Beginning AI Bot Frameworks |  |  |  |
 | MATLAB Deep Learning |  |  |  |
 | Beginning Artificial Intelligence with the Raspberry Pi |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 | Advanced Applied Deep Learning | | 深度学习高级应用指南 | |
 | AI for Healthcare with Keras and Tensorflow 2.0 | | 面向医疗保健的 Keras 和 TensorFlow2 人工智能教程 | |
 | Applied Natural Language Processing with Python | | Python 自然语言处理应用指南 | |
