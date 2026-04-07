@@ -654,6 +654,139 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Quantum Security |  |  |  |
+| CompTIA Security+ (SY0-701) Certification Companion |  |  |  |
+| Cybersecurity Threats and Attacks in the Gaming Industry |  |  |  |
+| Securing an Enterprise |  |  |  |
+| Discovering Cybersecurity |  |  |  |
+| Supply Chain Software Security |  |  |  |
+| Cybersecurity for Space |  |  |  |
+| The Cybersecurity Trinity |  |  |  |
+| Enterprise Digital Reliability |  |  |  |
+| Information Security Incident and Data Breach Management |  |  |  |
+| Security and Privacy for Modern Networks |  |  |  |
+| Identity Attack Vectors |  |  |  |
+| DevSecOps Adventures |  |  |  |
+| Cybersecurity Essentials |  |  |  |
+| IT Infrastructure |  |  |  |
+| Enterprise Cyber Risk Management as a Value Creator |  |  |  |
+| Privacy in the Age of Innovation |  |  |  |
+| Google Cloud Platform (GCP) Professional Cloud Security Engineer Certification Companion |  |  |  |
+| CRITICAL SECURITY CONTROLS FOR EFFECTIVE CYBER DEFENSE |  |  |  |
+| Advanced ASP. NET Core 8 Security |  |  |  |
+| HOW TO CATCH A PHISH |  |  |  |
+| Beginning AWS Security |  |  |  |
+| Hardening Your Macs |  |  |  |
+| UNDERSTAND, MANAGE, AND MEASURE CYBER RISK |  |  |  |
+| AZURE SECURITY FOR CRITICAL WORKLOADS |  |  |  |
+| TACTICAL WIRESHARK |  |  |  |
+| Pro Cryptography and Cryptanalysis with C++23 |  |  |  |
+| Firewalls Don’t Stop Dragons |  |  |  |
+| Demystifying Intelligent Multimode Security Systems |  |  |  |
+| The Definitive Guide to Security in Jakarta EE  |  |  |  |
+| Practical Forensic Analysis of Artifacts on IOS and Android Devices |  |  |  |
+| Getting started with secure embedded systems |  |  |  |
+| Enterprise-Grade IT Security for Small and Medium Businesses |  |  |  |
+| Theoretical Cybersecurity |  |  |  |
+| IT Security Controls |  |  |  |
+| ———— | ———— | ———— | ———— |
+| Pro Active Directory Certificate Services |  |  |  |
+| CRYPTOGRAPHY AND CRYPTANALYSIS IN JAVA |  |  |  |
+| Secure Web Application Development |  |  |  |
+| CLOUD ATTACK VECTORS |  |  |  |
+| Event- and Data-Centric Enterprise Risk-Adjusted Return Management |  |  |  |
+| Wireshark Fundamentals |  |  |  |
+| Jump-start Your SOC Analyst Career |  |  |  |
+| Red Hat and IT Security |  |  |  |
+| Azure Security Handbook |  |  |  |
+| Azure Cloud Security for Absolute Beginners |  |  |  |
+| Choose Your InfoSec Path |  |  |  |
+| Protective Security |  |  |  |
+| Zero Trust Security |  |  |  |
+| Phishing and Communication Channels |  |  |  |
+| A Complete Guide to Burp Suite |  |  |  |
+| UNDERSTAND, MANAGE, AND MEASURE CYBER RISK |  |  |  |
+| Cisco Networks |  |  |  |
+| Big Breaches : Cybersecurity Lessons for Everyone |  |  |  |
+| Cyber Threat Intelligence |  |  |  |
+| Multi-Site Network and Security Services with NSX-T |  |  |  |
+| Cryptography and Cryptanalysis in MATLAB |  |  |  |
+| Snowflake Security |  |  |  |
+| Cloud Defense Strategies with Azure Sentinel  |  |  |  |
+| Cyber security on Azure |  |  |  |
+| CompTIA Security+ Certification Study Guide |  |  |  |
+| 70 Tips and Tricks for Mastering the CISSP Exam |  |  |  |
+| Authentication and Access Control |  |  |  |
+| Implementing an Information Security Management System |  |  |  |
+| ADVANCED ASP.NET CORE 3.0 SECURITY |  |  |  |
+| Demystifying Internet of Things Security |  |  |  |
+| PCI DSS : An Integrated Data Security Standard Guide |  |  |  |
+| Rational cybersecurity for business |  |  |  |
+| Serverless Security |  |  |  |
+| Advanced API Security |  |  |  |
+| Privileged Attack Vectors |  |  |  |
+| ———— | ———— | ———— | ———— |
+| DevSecOps for .NET Core |  |  |  |
+| Android Apps Security |  |  |  |
+| Encryption for Organizations and Individuals |  |  |  |
+| Building Secure Firmware |  |  |  |
+| DESIGNING A HIPAA-COMPLIANT SECURITY OPERATIONS CENTER |  |  |  |
+| Ransomware Revealed |  |  |  |
+| The IoT Hacker's Handbook |  |  |  |
+| Hardening Azure Applications |  |  |  |
+| Digital Forensics Basics |  |  |  |
+| System Administration Ethics |  |  |  |
+| Cyber Operations |  |  |  |
+| Zero Trust Networks with VMware NSX |  |  |  |
+| Oracle Database Application Security |  |  |  |
+| Pro Azure Governance and Security |  |  |  |
+| Waging Cyber War |  |  |  |
+| Professional Red Teaming |  |  |  |
+| Bug Bounty Hunting for Web Security |  |  |  |
+| Applied Cryptography in .NET and Azure Key Vault |  |  |  |
+| Beginning Security with Microsoft Technologies |  |  |  |
+| Securing Office 365 |  |  |  |
+| Beginning Ethical Hacking with Kali Linux |  |  |  |
+| Asset Attack Vectors |  |  |  |
+| Cybersecurity Incident Response |  |  |  |
+| Securing SQL Server |  |  |  |
+| Oracle Incident Response and Forensics |  |  |  |
+| Defending IoT Infrastructures with the Raspberry Pi |  |  |  |
+| Windows Virus and Malware Troubleshooting |  |  |  |
+| Beginning Ethical Hacking with Python |  |  |  |
+| Personal Cybersecurity |  |  |  |
+| Building a HIPAA-Compliant Cybersecurity Program |  |  |  |
+| Achieving and Sustaining Secured Business Operations |  |  |  |
+| Digital Privacy and Security Using Windows |  |  |  |
+| Cybersecurity Lexicon |  |  |  |
+| ———— | ———— | ———— | ———— |
+| The Second Economy |  |  |  |
+| Managing Risk and Information Security |  |  |  |
+| Building a Comprehensive IT Security Program |  |  |  |
+| From Hacking to Report Writing |  |  |  |
+| Cyber-Physical Attack Recovery Procedures |  |  |  |
+| Securing PHP Apps |  |  |  |
+| IT Disaster Response |  |  |  |
+| IOS Penetration Testing |  |  |  |
+| Practical Information Security Management |  |  |  |
+| Enterprise cybersecurity |  |  |  |
+| The InfoSec handbook |  |  |  |
+| The privacy engineer's manifesto |  |  |  |
+| Platform embedded security technology revealed |  |  |  |
+| Healthcare Information Privacy and Security |  |  |  |
+| 10 don'ts on your digital devices |  |  |  |
+| Practical Hadoop security |  |  |  |
+| Building the Infrastructure for Cloud Security |  |  |  |
+| Pro ASP.NET Web API security |  |  |  |
+| Expert Oracle application express security |  |  |  |
+| Preventing Good People From Doing Bad Things |  |  |  |
+| Pro PHP security |  |  |  |
+| Foundations of Security |  |  |  |
+| Cryptography in C and C++ |  |  |  |
+| Autonomous Data Security |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Certified Ethical Hacker (CEH) Preparation Guide | | CEH 备考指南 | |
 | Penetration Testing Basics | | 渗透测试基础 | |
 | Quick Start Guide to Penetration Testing | | 渗透测试快速启动指南 | |
