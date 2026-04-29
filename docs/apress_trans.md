@@ -687,7 +687,6 @@
 | Enterprise-Grade IT Security for Small and Medium Businesses |  |  |  |
 | Theoretical Cybersecurity |  |  |  |
 | IT Security Controls |  |  |  |
-| ———— | ———— | ———— | ———— |
 | Pro Active Directory Certificate Services |  |  |  |
 | CRYPTOGRAPHY AND CRYPTANALYSIS IN JAVA |  |  |  |
 | Secure Web Application Development |  |  |  |
@@ -723,7 +722,6 @@
 | Serverless Security |  |  |  |
 | Advanced API Security |  |  |  |
 | Privileged Attack Vectors |  |  |  |
-| ———— | ———— | ———— | ———— |
 | DevSecOps for .NET Core |  |  |  |
 | Android Apps Security |  |  |  |
 | Encryption for Organizations and Individuals |  |  |  |
@@ -757,7 +755,6 @@
 | Achieving and Sustaining Secured Business Operations |  |  |  |
 | Digital Privacy and Security Using Windows |  |  |  |
 | Cybersecurity Lexicon |  |  |  |
-| ———— | ———— | ———— | ———— |
 | The Second Economy |  |  |  |
 | Managing Risk and Information Security |  |  |  |
 | Building a Comprehensive IT Security Program |  |  |  |
@@ -782,9 +779,6 @@
 | Foundations of Security |  |  |  |
 | Cryptography in C and C++ |  |  |  |
 | Autonomous Data Security |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 | Certified Ethical Hacker (CEH) Preparation Guide | | CEH 备考指南 | |
 | Penetration Testing Basics | | 渗透测试基础 | |
 | Quick Start Guide to Penetration Testing | | 渗透测试快速启动指南 | |
