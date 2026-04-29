@@ -2,6 +2,11 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Introducing Blockchain with Java |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | - | | 来自 50 英尺区块链的冲击 | |
 | - | | 区块链：泡沫还是革命 | |
 | - | | 区块链：新经济的蓝图 | |
@@ -17,6 +22,13 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Arduino Music and Audio Projects |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Advanced C and C++ Compiling | | C/C++ 高级编译教程 | |
 | Advanced Metaprogramming in Classic C++ | | C++ 高级元编程 | |
 | Beginning Unreal Engine 4 Blueprints Visual Scripting | | UE4 蓝图可视化脚本入门手册 | |
@@ -98,6 +110,12 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Introducing RavenDB |  |  |  |
+| Oracle ADF Survival Guide |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Cosmos DB for MongoDB developers | | 面向 MongoDB 开发者的 CosmosDB 教程 | |
 | - | | 大规模数据库性能指南 | |
 | The Definitive Guide to Mongodb | | MongoDB 权威指南 | |
@@ -124,6 +142,14 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Practical OpenTelemetry |  |  |  |
+| Practical Debugging at Scale |  |  |  |
+| Generic Pipelines Using Docker |  |  |  |
+| Essentials of Administering Team Foundation Server 2015  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Advanced Platform Development with Kubernetes | | Kubernetes 高级平台开发 | |
 | Azure Arc-Enabled Kubernetes and Servers | | Azure Arc Kubernetes 和服务器教程 | |
 | Azure Kubernetes Services with Microservices | | Azure Kubernetes 服务器和微服务教程 | |
@@ -152,6 +178,13 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Artificial Neural Networks with Java |  |  |  |
+| Real-Time IoT Imaging with Deep Neural Networks |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | GPU-Accelerated Deep Learning |  |  |  |
 | Hands-On Deep Learning |  |  |  |
 | Deep Reinforcement Learning with Python |  |  |  |
@@ -207,6 +240,11 @@
 | Learn PySpark |  |  |  |
 | Advanced Data Analytics Using Python |  |  |  |
 | Python Data Analytics With Pandas, NumPy, and Matplotlib |  |  |  |
+| Numerical Methods Using Kotlin |  |  |  |
+| Modern Data Engineering with Apache Spark |  |  |  |
+| Numerical Methods Using Java |  |  |  |
+| Beginning Apache Spark 2 |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -382,6 +420,108 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Java Microservices and Containers in the Cloud |  |  |  |
+| When Docker Meets Java |  |  |  |
+| Pro RESTful APIs with Micronaut |  |  |  |
+| Java Testing with Selenium |  |  |  |
+|  Learn Java Fundamentals|  |  |  |
+| Beginning Spring 6 |  |  |  |
+| Spring Boot 3 Recipes |  |  |  |
+| Java 23 for Absolute Beginners |  |  |  |
+| Beginning Cloud Native Development with MicroProfile |  |  |  |
+| Beginning Spring data |  |  |  |
+| Beginning Java Objects |  |  |  |
+| Introduction to Java through game development |  |  |  |
+| DESIGNING APPLICATIONS FOR GOOGLE CLOUD PLATFORM |  |  |  |
+| BUILDING MODERN BUSINESS APPLICATIONS |  |  |  |
+| Pro Spring 6 |  |  |  |
+| Spring 6 Recipes |  |  |  |
+| Pro Spring 6 with Kotlin |  |  |  |
+| Practical Spring LDAP |  |  |  |
+| Pro Kotlin Web Apps From Scratch |  |  |  |
+| Building Enterprise IoT Solutions with Eclipse IoT Technologies |  |  |  |
+| Beginning Helidon: Building Cloud-Native Microservices and Applications |  |  |  |
+| PRO JAKARTA EE 10 |  |  |  |
+| Introducing Spring Framework 6 |  |  |  |
+| Microsoft Azure for Java Developers |  |  |  |
+| Pro Cloud Native Java EE Apps |  |  |  |
+| Learn JavaFX Game and App Development |  |  |  |
+| Payara Micro Revealed |  |  |  |
+| Java 17 Recipes |  |  |  |
+| The Definitive Guide to Jakarta Faces in Jakarta EE 10 |  |  |  |
+| JAVA EE TO JAKARTA Pro Spring MVC with WebFluxEE 10 RECIPES |  |  |  |
+| Beginning Scala 3 |  |  |  |
+| Practical Spring Cloud Function  |  |  |  |
+| Beginning Spring Boot 3 |  |  |  |
+| Pro Jakarta Persistence in Jakarta EE 10 |  |  |  |
+| Learn to Program with Kotlin |  |  |  |
+| Introduction to video game engine development |  |  |  |
+| Essential Java Skills for AP CompSci Complete |  |  |  |
+| Programming Basics: Getting Started with Java, C#, and Python |  |  |  |
+| API Marketplace Engineering |  |  |  |
+| Introducing Play Framework |  |  |  |
+| Practical Apache Lucene 8 |  |  |  |
+| Introducing Jakarta EE CDI |  |  |  |
+| Pro Apache NetBeans |  |  |  |
+| Beginning Bazel |  |  |  |
+| Interactive Object-Oriented Programming in Java |  |  |  |
+| Practical Microservices Architectural Patterns |  |  |  |
+| Building Telegram Bots |  |  |  |
+| Rapid Java Persistence and Microservices |  |  |  |
+| Pro CDI 2 in Java EE 8 |  |  |  |
+| Pro Spring Security |  |  |  |
+| Java 13 Revealed |  |  |  |
+| Hands-On Enterprise Java Microservices with Eclipse MicroProfile |  |  |  |
+| Pivotal Certified Professional Core Spring 5 Developer Exam |  |  |  |
+| Building an Enterprise Chatbot |  |  |  |
+| Learning Groovy 3 |  |  |  |
+| Java EE 8 Recipes |  |  |  |
+| Java for Absolute Beginners |  |  |  |
+| Java Language Features |  |  |  |
+| The Definitive Guide to JSF in Java EE 8 |  |  |  |
+| Java APIs, Extensions and Libraries |  |  |  |
+| Practical JSF in Java EE 8 |  |  |  |
+| Software Development, Design and Coding |  |  |  |
+| Java Game Development with LibGDX |  |  |  |
+| Scala for Java Developers |  |  |  |
+| Pro JPA 2 in Java EE 8 |  |  |  |
+| Beginning EJB in Java EE 8 |  |  |  |
+| Microservices for the Enterprise |  |  |  |
+| Practical Scala DSLs |  |  |  |
+| Spring Boot 2: Recipes |  |  |  |
+| Spring Boot Messaging |  |  |  |
+| Java EE web application primer |  |  |  |
+| Beginning Spring Boot 2 |  |  |  |
+| Java 9 Revealed |  |  |  |
+| Java Unit Testing with JUnit 5 |  |  |  |
+| Reactive Java Programming |  |  |  |
+| Pro Java 9 Games Development |  |  |  |
+| Troubleshooting Java Performance |  |  |  |
+| Beginning Java 9 Fundamentals |  |  |  |
+| Pivotal Certified Professional Spring Developer Exam |  |  |  |
+| Exploring Java 9 |  |  |  |
+| Full Stack AngularJS for Java Developers  |  |  |  |
+| Java 9 Modularity Revealed |  |  |  |
+| Pro Java Clustering and Scalability |  |  |  |
+| Quick Clojure |  |  |  |
+| Spring 5 Recipes |  |  |  |
+| JavaFX 9 by example |  |  |  |
+| Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809 |  |  |  |
+| Java Lambdas and Parallel Streams |  |  |  |
+| Java I/O, NIO and NIO. 2 |  |  |  |
+| Beginning Java Game Development With LibGDX |  |  |  |
+| Java Closures and Lambda |  |  |  |
+| Genetic Algorithms in Java Basics |  |  |  |
+| JavaFX essentials |  |  |  |
+| Introducing Gradle |  |  |  |
+| Pivotal Certified Spring Enterprise Integration Specialist Exam |  |  |  |
+| Scripting in Java |  |  |  |
+| Pro JavaFX 8 |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Advanced Topics in Java: Core Concepts in Data Structures | | Java 高级主题 | |
 | Beginning Hibernate 6 | | Hibernate6 入门手册 | |
 | Beginning IntelliJ IDEA | | Intellij IDEA 入门手册 | |
@@ -424,7 +564,7 @@
 | Pro JavaFX 9 | | JavaFX9 高级教程 | |
 | Pro Spring Batch | | SpringBatch 高级教程 | |
 | Pro Spring Boot 2 | | SpringBoot2 高级教程 | |
-| Pro Spring MVC with WebFlux | | SpringMVC WebFlux 高级教程 | |
+|  | | SpringMVC WebFlux 高级教程 | |
 | Pro Spring 5 | | Spring5 高级教程 | |
 | Programming Basics: Getting Started with Java, C#, and Python | | 编程基础：Java、C# 和 Python 入门 | |
 | R2DBC Revealed | | R2DBC 揭秘 | |
@@ -506,6 +646,18 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Pro Android with Kotlin |  |  |  |
+| Android Software Internals Quick Reference |  |  |  |
+| Learn Android Studio 4 |  |  |  |
+| Android Espresso Revealed |  |  |  |
+| Flutter for Beginners |  |  |  |
+| Android Studio IDE Quick Reference |  |  |  |
+| Build Android-Based Smart Applications |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Agile Android | | 安卓敏捷教程 | |
 | Android for Absolute Beginners | | 安卓初学者入门指南 | |
 | Android Application Development for the Intel Platform | | 英特尔平台上的安卓应用开发教程 | |
@@ -577,6 +729,12 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| The Definitive Guide to Jython |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Advanced Python Development | | Python 开发高级教程 | |
 | Beginning Django CMS | | Django CMS 入门指南 | |
 | Beginning Django | | Django 入门指南 | |
@@ -644,6 +802,12 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Building Trading Bots Using Java |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | `zh.annas-archive.org/md5/98949b54b6218a075bcbfbd4379f7727` | | 金融市场中的人工智能：新算法和解决方案 | |
 | `zh.annas-archive.org/md5/0aabc8078dabbde7af4df5aa9d55c374` | | 面向金融市场的人工智能：多模型方法 | |
 | Testing and Tuning Market Trading Systems Algorithms in C++ | | C++ 市场交易系统算法测试和调优 | |
