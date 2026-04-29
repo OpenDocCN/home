@@ -146,6 +146,9 @@
 | Practical Debugging at Scale |  |  |  |
 | Generic Pipelines Using Docker |  |  |  |
 | Essentials of Administering Team Foundation Server 2015  |  |  |  |
+| DevOps for Developers |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -470,6 +473,7 @@
 | Rapid Java Persistence and Microservices |  |  |  |
 | Pro CDI 2 in Java EE 8 |  |  |  |
 | Pro Spring Security |  |  |  |
+| ———— | ———— | ———— | ———— |
 | Java 13 Revealed |  |  |  |
 | Hands-On Enterprise Java Microservices with Eclipse MicroProfile |  |  |  |
 | Pivotal Certified Professional Core Spring 5 Developer Exam |  |  |  |
@@ -506,7 +510,6 @@
 | Quick Clojure |  |  |  |
 | Spring 5 Recipes |  |  |  |
 | JavaFX 9 by example |  |  |  |
-| Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809 |  |  |  |
 | Java Lambdas and Parallel Streams |  |  |  |
 | Java I/O, NIO and NIO. 2 |  |  |  |
 | Beginning Java Game Development With LibGDX |  |  |  |
@@ -517,7 +520,51 @@
 | Pivotal Certified Spring Enterprise Integration Specialist Exam |  |  |  |
 | Scripting in Java |  |  |  |
 | Pro JavaFX 8 |  |  |  |
-|  |  |  |  |
+| Beginning Java 8 APIs, extensions, and libraries |  |  |  |
+| Java 8 Recipes |  |  |  |
+| Beginning java 8 games development |  |  |  |
+| Beginning Java EE 7 |  |  |  |
+| ———— | ———— | ———— | ———— |
+| The Definitive Guide to Grails 2 |  |  |  |
+| Beginning Groovy, Grails and Griffon |  |  |  |
+| Oracle Certified Professional Java SE 7 Programmer Exams 1Z0-804 and 1Z0-805 |  |  |  |
+| Beginning EJB 3 |  |  |  |
+| Java Quick Syntax Reference |  |  |  |
+| Beginning JSP, JSF and Tomcat |  |  |  |
+| Pro Spring MVC |  |  |  |
+| Java 7 for absolute beginners |  |  |  |
+| Pro Spring 3 |  |  |  |
+| JavaFX 2.0 |  |  |  |
+| Practical RichFaces |  |  |  |
+| Java 7 Recipes |  |  |  |
+| Pro Java ME Apps |  |  |  |
+| Beginning OpenOffice Calc |  |  |  |
+| The Definitive Guide to NetBeansTM Platform 7 |  |  |  |
+| Software Development and Professional Practice |  |  |  |
+| Hibernate recipes |  |  |  |
+| Beginning JavaTM EE 6 Platform with GlassFishTM 3 |  |  |  |
+| Spring Persistence with Hibernate |  |  |  |
+| Beginning JSFTM 2 APIs and JBoss® Seam |  |  |  |
+| Beginning Java ME Platform |  |  |  |
+| Pro JavaTM EE Spring Patterns |  |  |  |
+| The Definitive Guide to Terracotta |  |  |  |
+| Spring 2.5 Recipes |  |  |  |
+| Beginning JavaTM SE 6 Platform |  |  |  |
+| JavaFX Script |  |  |  |
+| Pro XML development with Java technology |  |  |  |
+| Pro JSF and Ajax |  |  |  |
+| Beginning Apache Struts |  |  |  |
+| Beginning POJOs |  |  |  |
+| Foundations of AOP for J2EE Development  |  |  |  |
+| Pro JSP 2 |  |  |  |
+| SCJD Exam with J2SE 5 |  |  |  |
+| Pro J2ME Polish |  |  |  |
+| Decompiling Java |  |  |  |
+| Bluetooth for Java |  |  |  |
+| Java Regular Expressions  |  |  |  |
+| Wireless Java |  |  |  |
+| Logging in Java with the JDK 1.4 Logging API and Apache log4j |  |  |  |
+| Enterprise Social for the Java Platform |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -527,7 +574,7 @@
 | Beginning IntelliJ IDEA | | Intellij IDEA 入门手册 | |
 | Beginning Java MVC 1.0 | | Java MVC 1.0 入门手册 | |
 | Beginning Java 17 Fundamentals | | Java17 入门基础知识 | |
-| - | | Java7 入门手册 | |
+| Beginning Java 7 | | Java7 入门手册 | |
 | Beginning Java 8 APIs | | Java8 API 入门手册 | |
 | - | | Java8 游戏开发入门手册 | |
 | Beginning jOOQ | | JOOQ 入门手册 | |
@@ -553,13 +600,13 @@
 | Modern Programming Made Easy | | 轻松学模块化编程 | |
 | More Java 17 | | Java17 教程·续 | |
 | Nature-Inspired Optimization Algorithms with Java | | Java 自然启发的算法教程 | |
-| - | | Oracle 专业认证 JavaSE8 编程测验 | |
+| Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809 | | Oracle 专业认证 JavaSE8 编程测验 | |
 | Practical Domain-Driven Design in Enterprise Java | | Java EE 领域驱动设计实践指南 | |
 | Practical Spring LDAP | | Spring LDAP 实践教程 | |
 | Practical Vaadin | | Vaadin 实践教程 | |
 | Pro Hibernate and MongoDB | | Hibernate 和 MongoDB 高级教程 | |
 | Pro Java Microservices with Quarkus and Kubernetes | | Quarkus 和 Kubernetes 的 Java 微服务高级教程 | |
-| - | | Java7 NIO2 高级教程 | |
+| Pro Java 7 NIO.2  | | Java7 NIO2 高级教程 | |
 | - | | Java9 游戏开发高级教程 | |
 | Pro JavaFX 9 | | JavaFX9 高级教程 | |
 | Pro Spring Batch | | SpringBatch 高级教程 | |
