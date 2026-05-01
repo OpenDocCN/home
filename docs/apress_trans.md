@@ -3,6 +3,12 @@
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
 | Introducing Blockchain with Java |  |  |  |
+| BEGINNING ETHEREUM SMART CONTRACTS PROGRAMMING  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -147,7 +153,7 @@
 | Generic Pipelines Using Docker |  |  |  |
 | Essentials of Administering Team Foundation Server 2015  |  |  |  |
 | DevOps for Developers |  |  |  |
-|  |  |  |  |
+| Visual Studio Code Distilled |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -183,6 +189,25 @@
 |--------|----------|--------|----------|
 | Artificial Neural Networks with Java |  |  |  |
 | Real-Time IoT Imaging with Deep Neural Networks |  |  |  |
+| Mastering Text Analytics |  |  |  |
+| Generative AI Apps with LangChain and Python |  |  |  |
+| Introduction to Python and Large Language Models |  |  |  |
+| Beginning ChatGPT for Python |  |  |  |
+| Productionizing AI |  |  |  |
+| EXPLAINABLE AI RECIPES |  |  |  |
+| Python Debugging for AI, Machine Learning, and Cloud Computing |  |  |  |
+| Introduction to Responsible AI |  |  |  |
+| Introduction to Prescriptive AI |  |  |  |
+| The Art of Reinforcement Learning |  |  |  |
+| Precision Health and Artificial Intelligence |  |  |  |
+| Practical Explainable AI Using Python |  |  |  |
+| Introduction to Transformers for NLP |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -247,6 +272,23 @@
 | Modern Data Engineering with Apache Spark |  |  |  |
 | Numerical Methods Using Java |  |  |  |
 | Beginning Apache Spark 2 |  |  |  |
+| Streamlit for Web Development |  |  |  |
+| Advanced Analytics in Power BI with R and Python |  |  |  |
+| Numerical Python |  |  |  |
+| Learn Data Science Using Python |  |  |  |
+| Hands-on Guide to Apache Spark 3 |  |  |  |
+| Data-driven SEO with Python |  |  |  |
+| Quantum Computing by Practice |  |  |  |
+| Python Data Analytics 3e |  |  |  |
+| Productive and efficient data science with Python |  |  |  |
+| SIMULATION WITH PYTHON |  |  |  |
+| Raspberry Pi Image Processing Programming |  |  |  |
+| Beginner's Guide to Streamlit with Python |  |  |  |
+| Finding Ghosts in Your Data |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -652,6 +694,20 @@
 |--------|----------|--------|----------|
 | Time Series Algorithms Recipes |  |  |  |
 | Hyperparameter Optimization in Machine Learning |  |  |  |
+| Advanced Forecasting with Python |  |  |  |
+| Industrial Vision Systems with Raspberry Pi |  |  |  |
+| Data Engineering for Machine Learning Pipelines |  |  |  |
+| Building Computer Vision Applications Using Artificial Neural Networks  2e |  |  |  |
+| Bayesian Optimization |  |  |  |
+| Adaptive Machine Learning Algorithms with Python |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -777,6 +833,32 @@
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
 | The Definitive Guide to Jython |  |  |  |
+| Python Made Easy |  |  |  |
+| Python Adventures for Young Coders |  |  |  |
+| Mastering Algorithms with Python |  |  |  |
+| Procedural Content Generation for Games |  |  |  |
+| Blender Scripting with Python |  |  |  |
+| Deep Dive Python |  |  |  |
+| Python Bootcamp |  |  |  |
+| Prototyping Python Dashboards for Scientists and Engineers |  |  |  |
+| Introduction to Python Network Automation Volume I |  |  |  |
+| Introduction to Python Network Automation Volume II |  |  |  |
+| Python Graphics |  |  |  |
+| Python for Teenagers 2e |  |  |  |
+| Beginning Python 4e |  |  |  |
+| C and Python Applications |  |  |  |
+| HIGH PERFORMANCE WEB APPS WITH FASTAPI |  |  |  |
+| micro:bit Projects with Python and Single Board Computers |  |  |  |
+| The Absolute Beginner's Guide to Python Programming |  |  |  |
+| Human-Computer Interaction in Game Development with Python |  |  |  |
+| Beginning MicroPython with the Raspberry Pi Pico |  |  |  |
+| Pragmatic Python Programming |  |  |  |
+| Python Challenges |  |  |  |
+| Internet of Things Using Single Board Computers |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -850,7 +932,7 @@
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
 | Building Trading Bots Using Java |  |  |  |
-|  |  |  |  |
+| Quantitative Trading Strategies Using Python |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -863,6 +945,16 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Boardroom Cybersecurity |  |  |  |
+| RISC-V Assembly Language Programming  |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
 | Quantum Security |  |  |  |
 | CompTIA Security+ (SY0-701) Certification Companion |  |  |  |
 | Cybersecurity Threats and Attacks in the Gaming Industry |  |  |  |
