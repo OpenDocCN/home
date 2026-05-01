@@ -578,7 +578,6 @@
 | Rapid Java Persistence and Microservices |  |  |  |
 | Pro CDI 2 in Java EE 8 |  |  |  |
 | Pro Spring Security |  |  |  |
-| ———— | ———— | ———— | ———— |
 | Java 13 Revealed |  |  |  |
 | Hands-On Enterprise Java Microservices with Eclipse MicroProfile |  |  |  |
 | Pivotal Certified Professional Core Spring 5 Developer Exam |  |  |  |
@@ -629,7 +628,6 @@
 | Java 8 Recipes |  |  |  |
 | Beginning java 8 games development |  |  |  |
 | Beginning Java EE 7 |  |  |  |
-| ———— | ———— | ———— | ———— |
 | The Definitive Guide to Grails 2 |  |  |  |
 | Beginning Groovy, Grails and Griffon |  |  |  |
 | Oracle Certified Professional Java SE 7 Programmer Exams 1Z0-804 and 1Z0-805 |  |  |  |
@@ -670,10 +668,6 @@
 | Wireless Java |  |  |  |
 | Logging in Java with the JDK 1.4 Logging API and Apache log4j |  |  |  |
 | Enterprise Social for the Java Platform |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 | Advanced Topics in Java: Core Concepts in Data Structures | | Java 高级主题 | |
 | Beginning Hibernate 6 | | Hibernate6 入门手册 | |
 | Beginning IntelliJ IDEA | | Intellij IDEA 入门手册 | |
