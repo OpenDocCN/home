@@ -4,7 +4,7 @@
 |--------|----------|--------|----------|
 | Introducing Blockchain with Java |  |  |  |
 | BEGINNING ETHEREUM SMART CONTRACTS PROGRAMMING  |  |  |  |
-|  |  |  |  |
+| Practical Blockchains and Cryptocurrencies |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -29,8 +29,7 @@
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
 | Arduino Music and Audio Projects |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Advanced Arduino Techniques in Science |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -118,7 +117,7 @@
 |--------|----------|--------|----------|
 | Introducing RavenDB |  |  |  |
 | Oracle ADF Survival Guide |  |  |  |
-|  |  |  |  |
+| MySQL Concurrency |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -154,6 +153,14 @@
 | Essentials of Administering Team Foundation Server 2015  |  |  |  |
 | DevOps for Developers |  |  |  |
 | Visual Studio Code Distilled |  |  |  |
+| Getting Started with Istio Service Mesh |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -202,12 +209,16 @@
 | Precision Health and Artificial Intelligence |  |  |  |
 | Practical Explainable AI Using Python |  |  |  |
 | Introduction to Transformers for NLP |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Artificial Intelligence in Medical Sciences and Psychology |  |  |  |
+| Trustworthy Artificial Intelligence Implementation |  |  |  |
+| Hands-on AIOps |  |  |  |
+| Computer Vision Projects with PyTorch |  |  |  |
+| PyTorch Recipes |  |  |  |
+| Practical Natural Language Processing with Python |  |  |  |
+| Generating a New Reality |  |  |  |
+| NATURAL LANGUAGE PROCESSING PROJECTS |  |  |  |
+| Deep Neuro-Fuzzy Systems with Python |  |  |  |
+| Reinforcement Learning |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -285,7 +296,26 @@
 | Raspberry Pi Image Processing Programming |  |  |  |
 | Beginner's Guide to Streamlit with Python |  |  |  |
 | Finding Ghosts in Your Data |  |  |  |
-|  |  |  |  |
+| Python for MATLAB Development |  |  |  |
+| Web Application Development with Streamlit |  |  |  |
+| Practical Python Data Visualization |  |  |  |
+| Applied Data Science Using PySpark |  |  |  |
+| Mastering Voice Interfaces  |  |  |  |
+| A Python Data Analyst’s Toolkit |  |  |  |
+| Data Science Revealed |  |  |  |
+| DATA SCIENCE SOLUTIONS WITH PYTHON |  |  |  |
+| Data-Driven Alexa Skills |  |  |  |
+| Thinking in Pandas |  |  |  |
+| Quantum Computing Solutions |  |  |  |
+| TEXT ANALYTICS WITH PYTHON |  |  |  |
+| Practical Quantum Computing for Developers |  |  |  |
+| PySpark SQL Recipes |  |  |  |
+| Python for the Life Sciences |  |  |  |
+| Practical Data Science with Python 3 |  |  |  |
+| Introduction to Python for Engineers and Scientists  |  |  |  |
+| Data Science Fundamentals for Python and MongoDB |  |  |  |
+| Beginning Python Visualization |  |  |  |
+| Block Trace Analysis and Storage System Optimization |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -365,6 +395,16 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Pro Go |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Go for Java Programmers | | 面向 Java 程序员的 Go 教程 | |
 | Go Recipes | | Go 秘籍 | |
 | Network programming with Go | | Go 网络编程 | |
@@ -669,6 +709,18 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Beginning IoT Projects |  |  |  |
+| Sensor Projects with Raspberry Pi |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Advanced Raspberry Pi | | 树莓派高级教程 | |
 | Basic Linux Terminal Tips and Tricks | | Linux 终端基础提示和技巧 | |
 | COMPUTING WITH THE RASPBERRY PI | | 树莓派计算教程 | |
@@ -700,7 +752,24 @@
 | Building Computer Vision Applications Using Artificial Neural Networks  2e |  |  |  |
 | Bayesian Optimization |  |  |  |
 | Adaptive Machine Learning Algorithms with Python |  |  |  |
-|  |  |  |  |
+| HANDS-ON MACHINE LEARNING WITH PYTHON |  |  |  |
+| MACHINE LEARNING ON GEOGRAPHICAL DATA USING PYTHON |  |  |  |
+| Transactional Machine Learning with Data Streams and AutoML |  |  |  |
+| Foundations of Probabilistic Programming |  |  |  |
+| Building Chatbots with Python Using Natural Language Processing and Machine Learning |  |  |  |
+| Practical Machine Learning for Streaming Data with Python |  |  |  |
+| Interpreting Machine Learning Models |  |  |  |
+| Ensemble Learning for AI Developers  |  |  |  |
+| Supervised Learning with Python |  |  |  |
+| Developing Cognitive Bots Using the IBM Watson Engine |  |  |  |
+| Machine Learning in the Oil and Gas Industry |  |  |  |
+| Hands-on Time Series Analysis with Python |  |  |  |
+| Machine Learning Concepts with Python and the Jupyter Notebook Environment |  |  |  |
+| IoT Machine Learning Applications in Telecom, Energy, and Agriculture |  |  |  |
+| Machine Learning with Microsoft Technologies |  |  |  |
+| Python for Data Mining Quick Syntax Reference |  |  |  |
+| Practical Machine Learning with Python |  |  |  |
+| Monetizing Machine Learning |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -855,6 +924,26 @@
 | Pragmatic Python Programming |  |  |  |
 | Python Challenges |  |  |  |
 | Internet of Things Using Single Board Computers |  |  |  |
+| Modern Full-Stack Development |  |  |  |
+| Beginning PyQt |  |  |  |
+| Robot Operating System (ROS) for Absolute Beginners |  |  |  |
+| WEB APP DEVELOPMENT AND REAL-TIME WEB ANALYTICS WITH PYTHON |  |  |  |
+| Introduction to Computational Thinking |  |  |  |
+| Modern PyQt |  |  |  |
+| Foundation Dynamic Web Pages with Python |  |  |  |
+| Building Versatile Mobile Apps with Python and REST |  |  |  |
+| Beginning Sensor Networks with XBee, Raspberry Pi, and Arduino |  |  |  |
+| Hands On Google Cloud SQL and Cloud Spanner |  |  |  |
+| Game Programming with Code Angel |  |  |  |
+| Python, PyGame, and Raspberry Pi Game Development |  |  |  |
+| Python for SAS Users |  |  |  |
+| Asyncio Recipes |  |  |  |
+| Learn to Program with Python 3 |  |  |  |
+| Practical Video Game Bots |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -933,6 +1022,11 @@
 |--------|----------|--------|----------|
 | Building Trading Bots Using Java |  |  |  |
 | Quantitative Trading Strategies Using Python |  |  |  |
+| IMPLEMENTING MACHINE LEARNING FOR FINANCE |  |  |  |
+| Basic Python for Data Management, Finance, and Marketing |  |  |  |
+| Econometrics and Data Science |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
