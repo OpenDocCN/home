@@ -219,6 +219,15 @@
 | NATURAL LANGUAGE PROCESSING PROJECTS |  |  |  |
 | Deep Neuro-Fuzzy Systems with Python |  |  |  |
 | Reinforcement Learning |  |  |  |
+| Practical Python AI Projects |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -316,6 +325,9 @@
 | Data Science Fundamentals for Python and MongoDB |  |  |  |
 | Beginning Python Visualization |  |  |  |
 | Block Trace Analysis and Storage System Optimization |  |  |  |
+| Practical Web Scraping for Data Science |  |  |  |
+| Data Analysis and Visualization Using Python |  |  |  |
+| Docker for Data Science |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -413,6 +425,17 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Beginning CSS Preprocessors |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Advanced Game Design with HTML5 and JavaScript | | HTML5 和 JavaScript 高级游戏设计 | |
 | - | | 高级游戏开发工具包 | |
 | Architecting CSS | | CSS 架构教程 | |
@@ -770,7 +793,7 @@
 | Python for Data Mining Quick Syntax Reference |  |  |  |
 | Practical Machine Learning with Python |  |  |  |
 | Monetizing Machine Learning |  |  |  |
-|  |  |  |  |
+| Python Machine Learning Case Studies |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -940,8 +963,14 @@
 | Asyncio Recipes |  |  |  |
 | Learn to Program with Python 3 |  |  |  |
 | Practical Video Game Bots |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| MySQL Connector/Python Revealed |  |  |  |
+| WxPython Recipes |  |  |  |
+| Beginning BBC Micro:bit |  |  |  |
+| Beginning Django E-Commerce |  |  |  |
+| Practical Django Projects |  |  |  |
+| Pro IronPython |  |  |  |
+| Python 3 for Absolute Beginners |  |  |  |
+| Foundations of agile Python development  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1025,6 +1054,10 @@
 | IMPLEMENTING MACHINE LEARNING FOR FINANCE |  |  |  |
 | Basic Python for Data Management, Finance, and Marketing |  |  |  |
 | Econometrics and Data Science |  |  |  |
+| Personal Finance With Python |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
