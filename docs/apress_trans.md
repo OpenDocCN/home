@@ -167,7 +167,7 @@
 | DevOps for Developers |  |  |  |
 | Visual Studio Code Distilled |  |  |  |
 | Getting Started with Istio Service Mesh |  |  |  |
-|  |  |  |  |
+| Linux Containers and Virtualization |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -359,7 +359,7 @@
 | Veracity of Big Data |  |  |  |
 | Big Data Analytics with Spark |  |  |  |
 | Energy efficient servers |  |  |  |
-|  |  |  |  |
+| Drones to Go |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -452,11 +452,14 @@
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
 | Pro Go |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Kubernetes Programming with Go |  |  |  |
+| Network Programming with Go Language |  |  |  |
+| Beginning Go Programming |  |  |  |
+| Software Development with Go |  |  |  |
+| Generic data structures and algorithms in Go |  |  |  |
+| Entertainment Apps on the Go with Windows 10 |  |  |  |
+| Web Development with Go |  |  |  |
+| TouchDevelop |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -797,7 +800,7 @@
 | From bash to z shell |  |  |  |
 | Tweak Your Mac Terminal |  |  |  |
 | Beginning PowerShell for SharePoint 2013 |  |  |  |
-|  |  |  |  |
+| Sensor Technologies |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1356,10 +1359,10 @@
 | Pro Perl Programming |  |  |  |
 | Beginning Perl Web Development |  |  |  |
 | PRACTICAL RUST PROJECTS |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| How to Make a Game |  |  |  |
+| Beginning Rust |  |  |  |
+| Practical Rust Web Projects |  |  |  |
+| Rust for the IoT |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
