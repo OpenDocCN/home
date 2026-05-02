@@ -7,6 +7,36 @@
 | Practical Blockchains and Cryptocurrencies |  |  |  |
 | Introducing Ethereum and Solidity |  |  |  |
 | IOT, AI, and Blockchain for .NET |  |  |  |
+| Blockchain Fundamental Analysis for Digital Asset Investors |  |  |  |
+| Blockchain Essentials |  |  |  |
+| Testing the Creditcoin Blockchain |  |  |  |
+| The Web3 Revolution |  |  |  |
+| Blockchain for Hospitality and Tourism |  |  |  |
+| The Quiet Crypto Revolution |  |  |  |
+| A Brief Introduction to Web3 |  |  |  |
+| Still Searching for Satoshi |  |  |  |
+| UNDERSTANDING CRYPTO FUNDAMENTALS |  |  |  |
+| Blockchain Consensus |  |  |  |
+| Getting Started with Ethereum |  |  |  |
+| Blockchain for Teens |  |  |  |
+| CRYPTO BASICS |  |  |  |
+| Blockchain and Ethereum Smart Contract Solution Development |  |  |  |
+| Introducing Blockchain Applications |  |  |  |
+| Introducing Blockchain with Lisp |  |  |  |
+| BLOCKCHAIN ENABLED APPLICATIONS |  |  |  |
+| IoT Standards with Blockchain  |  |  |  |
+| Digital Fluency |  |  |  |
+| Learn Blockchain by Building One |  |  |  |
+| Unlocking Blockchain on Azure |  |  |  |
+| Decoding Blockchain for Business |  |  |  |
+| The Blockchain Developer |  |  |  |
+| Ethereum for Web Developers |  |  |  |
+| Beginning Blockchain |  |  |  |
+| Blockchain Basics |  |  |  |
+| The Blockchain Alternative |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -81,7 +111,7 @@
 | Beginning database programming using ASP. NET Core 3 |  |  |  |
 | Real-Time Web Application Development |  |  |  |
 | Learn Unity for Windows 10 Game Development |  |  |  |
-|  |  |  |  |
+| Beginning MongoDB Atlas with .NET |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -163,6 +193,12 @@
 | Leveling Up with SQL |  |  |  |
 | Pro MySQL NDB Cluster |  |  |  |
 | MariaDB and MySQL Common Table Expressions and Window Functions Revealed |  |  |  |
+| MongoDB Recipes |  |  |  |
+| MongoDB Topology Design |  |  |  |
+| Mastering MongoDB 3.x |  |  |  |
+| Pro MongoDBTM Development |  |  |  |
+| Practical MonogoDB |  |  |  |
+| The Definitive Guide to MongoDB: |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -430,7 +466,7 @@
 | Energy efficient servers |  |  |  |
 | Drones to Go |  |  |  |
 | Audio Visualization Using ThMAD |  |  |  |
-|  |  |  |  |
+| Advanced R 4 Data Programming and the Cloud |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
