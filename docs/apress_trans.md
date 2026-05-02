@@ -6,7 +6,7 @@
 | BEGINNING ETHEREUM SMART CONTRACTS PROGRAMMING  |  |  |  |
 | Practical Blockchains and Cryptocurrencies |  |  |  |
 | Introducing Ethereum and Solidity |  |  |  |
-|  |  |  |  |
+| IOT, AI, and Blockchain for .NET |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -356,9 +356,9 @@
 | Beginning Mathematica and Wolfram for Data Science |  |  |  |
 | Google Cloud Platform for Data Science |  |  |  |
 | Learn R for Applied Statistics |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Veracity of Big Data |  |  |  |
+| Big Data Analytics with Spark |  |  |  |
+| Energy efficient servers |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -796,7 +796,7 @@
 | Sensor Projects with Raspberry Pi |  |  |  |
 | From bash to z shell |  |  |  |
 | Tweak Your Mac Terminal |  |  |  |
-|  |  |  |  |
+| Beginning PowerShell for SharePoint 2013 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -880,7 +880,14 @@
 | Practical Machine Learning with Rust |  |  |  |
 | MATLAB Machine Learning Recipes |  |  |  |
 | Beginning Machine Learning in IOS |  |  |  |
-|  |  |  |  |
+| Optimizing Data-to-Learning-to-Action |  |  |  |
+| Practical Artificial Intelligence |  |  |  |
+| Machine Learning Using R |  |  |  |
+| Oracle Business Intelligence with Machine Learning |  |  |  |
+| Building Intelligent Systems |  |  |  |
+| Machine Learning and Cognition in Enterprises |  |  |  |
+| Efficient learning machines |  |  |  |
+| Predictive Analytics with Microsoft Azure Machine Learning |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
