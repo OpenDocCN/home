@@ -777,7 +777,7 @@
 | Beginning IoT Projects |  |  |  |
 | Sensor Projects with Raspberry Pi |  |  |  |
 | From bash to z shell |  |  |  |
-|  |  |  |  |
+| Tweak Your Mac Terminal |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -958,13 +958,28 @@
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
 | Learn PHP 8 |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Practical PHP APIs with Symfony |  |  |  |
+| PHP by Example |  |  |  |
+| Building Secure PHP Applications |  |  |  |
+| PHP 8 Basics |  |  |  |
+| PHP 8 for absolute beginners |  |  |  |
+| BUILDING SCALABLE PHP WEB APPLICATIONS USING THE CLOUD |  |  |  |
+| PHP 7 Solutions |  |  |  |
+| PHP and MySQL Recipes |  |  |  |
+| Learn CakePHP |  |  |  |
+| PHP objects, patterns, and practice |  |  |  |
+| Typed PHP |  |  |  |
+| PHP 7 Quick Syntax Reference |  |  |  |
+| PHP Beyond the Web |  |  |  |
+| PHP Beginners Course |  |  |  |
+| Make an E-commerce Site in a Weekend : Using PHP |  |  |  |
+| PHP Solutions |  |  |  |
+| PHP Quick Scripting Reference |  |  |  |
+| Pro PHP MVC |  |  |  |
+| Practical Web 2.0 applications with PHP |  |  |  |
+| Beginning CakePHP |  |  |  |
+| Beginning PHP and PostgreSQL E-Commerce |  |  |  |
+| Beginning PHP and PostgreSQL 8 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
