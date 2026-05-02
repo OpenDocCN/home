@@ -30,6 +30,18 @@
 |--------|----------|--------|----------|
 | Arduino Music and Audio Projects |  |  |  |
 | Advanced Arduino Techniques in Science |  |  |  |
+| C Programming for System, Network, and Cloud Engineers |  |  |  |
+| Practical system programming with C |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -139,6 +151,13 @@
 | Oracle ADF Survival Guide |  |  |  |
 | MySQL Concurrency |  |  |  |
 | SQL Server 2019 Revealed |  |  |  |
+| Oracle on Docker |  |  |  |
+| Pro SQL Server on Linux |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 | Cosmos DB for MongoDB developers | | 面向 MongoDB 开发者的 CosmosDB 教程 | |
@@ -175,10 +194,10 @@
 | Visual Studio Code Distilled |  |  |  |
 | Getting Started with Istio Service Mesh |  |  |  |
 | Linux Containers and Virtualization |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Beginning Ansible Concepts and Application |  |  |  |
+| Practical Linux DevOps |  |  |  |
+| Kubernetes Management Design Patterns |  |  |  |
+| Practical LXC and LXD |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -367,7 +386,7 @@
 | Big Data Analytics with Spark |  |  |  |
 | Energy efficient servers |  |  |  |
 | Drones to Go |  |  |  |
-|  |  |  |  |
+| Audio Visualization Using ThMAD |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -833,6 +852,36 @@
 | Tweak Your Mac Terminal |  |  |  |
 | Beginning PowerShell for SharePoint 2013 |  |  |  |
 | Sensor Technologies |  |  |  |
+| systemd for Linux SysAdmins |  |  |  |
+| CompTIA Linux+ Certification Companion |  |  |  |
+| Foundations of ARM64 Linux debugging, disassembling, and reversing |  |  |  |
+| Using and Administering Linux: Volume 2 |  |  |  |
+| Using and Administering Linux: Volume 3 |  |  |  |
+| Using and Administering Linux: Volume 1 |  |  |  |
+| Pro Bash |  |  |  |
+| Linux for Small Business Owners |  |  |  |
+| The Enterprise Linux Administrator |  |  |  |
+| Beginning Ubuntu for Windows and Mac Users |  |  |  |
+| Intel® Galileo and Intel® Galileo Gen 2 |  |  |  |
+| Pro Windows Subsystem for Linux (WSL) |  |  |  |
+| Running ESXi on a Raspberry Pi |  |  |  |
+| Practical LPIC-3 300 |  |  |  |
+| Beginning Modern Unix |  |  |  |
+| Learn CentOS Linux Network Services |  |  |  |
+| Deploying Raspberry Pi in the Classroom |  |  |  |
+| Practical LPIC-1 Linux Certification Study Guide |  |  |  |
+| Practical Linux Topics |  |  |  |
+| Linux and Solaris Recipes for Oracle DBAs |  |  |  |
+| Beginning the linux command line |  |  |  |
+| Practical Linux Infrastructure |  |  |  |
+| Pro Linux High Availability Clustering |  |  |  |
+| Pro vim |  |  |  |
+| The Definitive Guide to SUSE Linux Enterprise Server 12 |  |  |  |
+| Beginning Fedora Desktop |  |  |  |
+| Raspberry Pi System Software Reference |  |  |  |
+| Beginning Ubuntu Linux |  |  |  |
+| Pro Linux Embedded Systems |  |  |  |
+| The Definitive Guide to Linux Network Programming |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
