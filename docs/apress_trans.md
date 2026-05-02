@@ -79,8 +79,8 @@
 | Windows 8 MVVM Patterns Revealed |  |  |  |
 | Beginning GRPC with ASP.NET Core 6 |  |  |  |
 | Beginning database programming using ASP. NET Core 3 |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Real-Time Web Application Development |  |  |  |
+| Learn Unity for Windows 10 Game Development |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -153,9 +153,9 @@
 | SQL Server 2019 Revealed |  |  |  |
 | Oracle on Docker |  |  |  |
 | Pro SQL Server on Linux |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| The SQL Server DBA’s Guide to Docker Containers |  |  |  |
+| SQL Server on Kubernetes |  |  |  |
+| Practical Oracle Cloud Infrastructure |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -218,6 +218,16 @@
 | DevOps on the Microsoft Stack |  |  |  |
 | Microservices, IoT, and Azure |  |  |  |
 | Pro Website Development and Operations |  |  |  |
+| Cloud Native Applications with Docker and Kubernetes |  |  |  |
+| A Complete Guide to Docker for Operations and Development |  |  |  |
+| Accelerating Development Velocity Using Docker |  |  |  |
+| Docker Hands on |  |  |  |
+| Deploy Container Applications Using Kubernetes |  |  |  |
+| Kubernetes Fundamentals |  |  |  |
+| ANSIBLE FOR KUBERNETES BY EXAMPLES |  |  |  |
+| Kubernetes Application Developer |  |  |  |
+| Kubernetes Native Development |  |  |  |
+| Kubernetes : Preparing for the CKA and CKAD Certifications |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -659,7 +669,7 @@
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
 | Full-Stack Web Development with Jakarta EE and Vue.js |  |  |  |  |
-|  |  |  |  |
+| Beginning Cloud Native Development with MicroProfile, Jakarta EE, and Kubernetes |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
