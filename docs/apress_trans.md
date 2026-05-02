@@ -1149,17 +1149,6 @@
 | Pro IronPython |  |  |  |
 | Python 3 for Absolute Beginners |  |  |  |
 | Foundations of agile Python development  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 | Advanced Python Development | | Python 开发高级教程 | |
 | Beginning Django CMS | | Django CMS 入门指南 | |
 | Beginning Django | | Django 入门指南 | |
