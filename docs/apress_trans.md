@@ -65,6 +65,13 @@
 | Beginning jQuery 2 for ASP.NET Developers |  |  |  |
 | Beginning Windows 8 Data Development: Using C# and JavaScript  |  |  |  |
 | Windows 8 MVVM Patterns Revealed |  |  |  |
+| Beginning GRPC with ASP.NET Core 6 |  |  |  |
+| Beginning database programming using ASP. NET Core 3 |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -398,8 +405,21 @@
 | Practical jQuery |  |  |  |
 | Beginning AngularJS |  |  |  |
 | jQuery Recipes |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Master Vue.js in 6 Days |  |  |  |
+| Building Progressive Web Applications with Vue.js |  |  |  |
+| Getting Started with Angular |  |  |  |
+| Practical Highcharts with Angular |  |  |  |
+| Angular for Material Design |  |  |  |
+| Reactive Programming with Angular and Ngrx |  |  |  |
+| Angular for Business |  |  |  |
+| Advanced Front-End Development |  |  |  |
+| Web Forms with React |  |  |  |
+| Master React in 5 Days |  |  |  |
+| Test-Driven Development with React and TypeScript |  |  |  |
+| Just React! |  |  |  |
+| Creating Apps with React Native |  |  |  |
+| React Native for Mobile Development |  |  |  |
+| Practical React Native |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -597,6 +617,18 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Full-Stack Web Development with Jakarta EE and Vue.js |  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Java Microservices and Containers in the Cloud |  |  |  |
 | When Docker Meets Java |  |  |  |
 | Pro RESTful APIs with Micronaut |  |  |  |
@@ -1063,6 +1095,13 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Modern Django Web Development |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | The Definitive Guide to Jython |  |  |  |
 | Python Made Easy |  |  |  |
 | Python Adventures for Young Coders |  |  |  |
