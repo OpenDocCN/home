@@ -186,6 +186,7 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Software Development From A to Z |  |  |  |
 | Practical OpenTelemetry |  |  |  |
 | Practical Debugging at Scale |  |  |  |
 | Generic Pipelines Using Docker |  |  |  |
@@ -198,6 +199,27 @@
 | Practical Linux DevOps |  |  |  |
 | Kubernetes Management Design Patterns |  |  |  |
 | Practical LXC and LXD |  |  |  |
+| Cloud-native DevOps |  |  |  |
+| Practical GitLab Services |  |  |  |
+| Reinventing ITIL® and DevOps with Digital Transformation |  |  |  |
+| A Complete Guide to DevOps with AWS |  |  |  |
+| Introduction to Infrastructure As Code |  |  |  |
+| HANDS-ON GUIDE TO AGILEOPS |  |  |  |
+| Azure DevOps for Web Developers |  |  |  |
+| .NET DevOps for Azure |  |  |  |
+| Mastering Salesforce DevOps |  |  |  |
+| Hands-on Azure Repos |  |  |  |
+| Hands-on Azure Boards |  |  |  |
+| Agile Project Management with Azure DevOps |  |  |  |
+| DEVOPS FOR AZURE APPLICATIONS |  |  |  |
+| Introduction to DevOps with Chocolate, LEGO and Scrum Game |  |  |  |
+| DevOps for Digital Leaders |  |  |  |
+| DevOps, DBAs, and DBaaS |  |  |  |
+| DevOps on the Microsoft Stack |  |  |  |
+| Microservices, IoT, and Azure |  |  |  |
+| Pro Website Development and Operations |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -882,7 +904,7 @@
 | Beginning Ubuntu Linux |  |  |  |
 | Pro Linux Embedded Systems |  |  |  |
 | The Definitive Guide to Linux Network Programming |  |  |  |
-|  |  |  |  |
+| Beginning PowerShell for SharePoint 2016 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1440,6 +1462,5 @@
 | Beginning Rust |  |  |  |
 | Practical Rust Web Projects |  |  |  |
 | Rust for the IoT |  |  |  |
-|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
