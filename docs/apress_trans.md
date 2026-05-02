@@ -5,7 +5,7 @@
 | Introducing Blockchain with Java |  |  |  |
 | BEGINNING ETHEREUM SMART CONTRACTS PROGRAMMING  |  |  |  |
 | Practical Blockchains and Cryptocurrencies |  |  |  |
-|  |  |  |  |
+| Introducing Ethereum and Solidity |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -60,6 +60,19 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Building Web Applications with .NET Core 2.1 and JavaScript |  |  |  |
+| Building Web Applications with Visual Studio 2017 |  |  |  |
+| Beginning jQuery 2 for ASP.NET Developers |  |  |  |
+| Beginning Windows 8 Data Development: Using C# and JavaScript  |  |  |  |
+| Windows 8 MVVM Patterns Revealed |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Advanced ASP.NET Core 3 Security | | Asp.NET Core3 安全高级教程 | |
 | Advanced Unity Game Development | | Unity 高级游戏开发教程 | |
 | Applied ASP.NET 4 in Context | | Asp.NET4 应用上下文教程 | |
@@ -220,8 +233,8 @@
 | Deep Neuro-Fuzzy Systems with Python |  |  |  |
 | Reinforcement Learning |  |  |  |
 | Practical Python AI Projects |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Creating ChatGPT Apps with JavaScript |  |  |  |
+| AI Solutions for the United Nations Sustainable Development Goals  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -328,8 +341,9 @@
 | Practical Web Scraping for Data Science |  |  |  |
 | Data Analysis and Visualization Using Python |  |  |  |
 | Docker for Data Science |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Introducing ArcGIS API 4 for JavaScript |  |  |  |
+| Create Web Charts with D3 |  |  |  |
+| Create Web Charts With jqPlot |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -362,6 +376,18 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| CRAFTING CLEAN CODE WITH JAVASCRIPT AND REACT |  |  |  |
+| Practical jQuery |  |  |  |
+| Beginning AngularJS |  |  |  |
+| jQuery Recipes |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Beginning jQuery | | jQuery 入门指南 | |
 | Beginning React and Firebase | | React 和 Firebase 入门指南 | |
 | Beyond jQuery | | 超越 jQuery | |
@@ -426,9 +452,31 @@
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
 | Beginning CSS Preprocessors |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| How JavaScript Works |  |  |  |
+| Generative Art with JavaScript and SVG |  |  |  |
+| Enhancing Adobe Acrobat Forms with JavaScript |  |  |  |
+| The Essential Guide to HTML5 |  |  |  |
+| JavaScript for Web Developers |  |  |  |
+| Programming for Absolute Beginners |  |  |  |
+| Roguelike Development with JavaScript  |  |  |  |
+| JavaScript Next |  |  |  |
+| The CLI Book |  |  |  |
+| Pro TypeScript: Application |  |  |  |
+| Regex Quick Syntax Reference |  |  |  |
+| The Advanced Game Developer's Toolkit |  |  |  |
+| Pro HTML5 with CSS, JavaScript, and Multimedia |  |  |  |
+| Introducing JavaScript Game Development |  |  |  |
+| ES6 for humans |  |  |  |
+| Rapid Game Development Using Cocos2d-JS |  |  |  |
+| Making Games : With JavaScript |  |  |  |
+| Pro Grunt.js |  |  |  |
+| Learn Unity 3D programming with UnityScript |  |  |  |
+| Javascript creativity |  |  |  |
+| HTML5 Game Programming with Enchant. js |  |  |  |
+| Beginning Backbone.js |  |  |  |
+| Pro JavaScript Performance |  |  |  |
+| Pro JavaScript™ RIA Techniques |  |  |  |
+| Pro JavaScript Design Patterns |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -728,7 +776,7 @@
 |--------|----------|--------|----------|
 | Beginning IoT Projects |  |  |  |
 | Sensor Projects with Raspberry Pi |  |  |  |
-|  |  |  |  |
+| From bash to z shell |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -788,6 +836,10 @@
 | Practical Machine Learning with Python |  |  |  |
 | Monetizing Machine Learning |  |  |  |
 | Python Machine Learning Case Studies |  |  |  |
+| Machine Learning For Network Traffic and Video Quality Analysis |  |  |  |
+| BEGINNING MACHINE LEARNING IN THE BROWSER |  |  |  |
+| Practical Machine Learning in JavaScript |  |  |  |
+| Machine Learning Projects for .NET Developers |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -842,6 +894,17 @@
 | Flutter for Beginners |  |  |  |
 | Android Studio IDE Quick Reference |  |  |  |
 | Build Android-Based Smart Applications |  |  |  |
+| Pro Android Web Game Apps |  |  |  |
+| Windows 10 Development Recipes |  |  |  |
+| Windows 8 Apps Revealed Using HTML5 and JavaScript |  |  |  |
+| Beginning Iphone and Ipad Web Apps |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -894,6 +957,21 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Learn PHP 8 |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Beginning PHP and MySQL | | PHP MySQL 入门教程 | |
 | Building Scalable PHP Web Applications | | 构建可伸缩的 PHP Web 应用 | |
 | Domain-Driven Laravel | | Laravel 领域驱动教程 | |
@@ -1206,3 +1284,18 @@
 | Certified Ethical Hacker (CEH) Preparation Guide | | CEH 备考指南 | |
 | Penetration Testing Basics | | 渗透测试基础 | |
 | Quick Start Guide to Penetration Testing | | 渗透测试快速启动指南 | |
+
+## 其它
+
+| 英文名 | 最新版本 | 中文名 | 现有版本 |
+|--------|----------|--------|----------|
+| Pro Perl Programming |  |  |  |
+| Beginning Perl Web Development |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
