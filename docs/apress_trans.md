@@ -156,6 +156,17 @@
 | The SQL Server DBA’s Guide to Docker Containers |  |  |  |
 | SQL Server on Kubernetes |  |  |  |
 | Practical Oracle Cloud Infrastructure |  |  |  |
+| Mastering MySQL 8.2 Administration |  |  |  |
+| Hacking MySQL |  |  |  |
+| MySQL Database Service Revealed |  |  |  |
+| Database-Driven Web Development |  |  |  |
+| Leveling Up with SQL |  |  |  |
+| Pro MySQL NDB Cluster |  |  |  |
+| MariaDB and MySQL Common Table Expressions and Window Functions Revealed |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
