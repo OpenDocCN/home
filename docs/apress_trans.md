@@ -131,7 +131,7 @@
 | Introducing RavenDB |  |  |  |
 | Oracle ADF Survival Guide |  |  |  |
 | MySQL Concurrency |  |  |  |
-|  |  |  |  |
+| SQL Server 2019 Revealed |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 | Cosmos DB for MongoDB developers | | 面向 MongoDB 开发者的 CosmosDB 教程 | |
@@ -235,6 +235,15 @@
 | Practical Python AI Projects |  |  |  |
 | Creating ChatGPT Apps with JavaScript |  |  |  |
 | AI Solutions for the United Nations Sustainable Development Goals  |  |  |  |
+| Microsoft Conversational AI-Platform für Entwickler |  |  |  |
+| How Algorithms Create and Prevent Fake News |  |  |  |
+| Hands-on Question Answering Systems with BERT |  |  |  |
+| MANAGING AI IN THE ENTERPRISE |  |  |  |
+| Hands-on Azure Cognitive Services |  |  |  |
+| Artificial Neural Networks with TensorFlow 2 |  |  |  |
+| Oracle Digital Assistant  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -344,6 +353,15 @@
 | Introducing ArcGIS API 4 for JavaScript |  |  |  |
 | Create Web Charts with D3 |  |  |  |
 | Create Web Charts With jqPlot |  |  |  |
+| Beginning Mathematica and Wolfram for Data Science |  |  |  |
+| Google Cloud Platform for Data Science |  |  |  |
+| Learn R for Applied Statistics |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -840,6 +858,30 @@
 | BEGINNING MACHINE LEARNING IN THE BROWSER |  |  |  |
 | Practical Machine Learning in JavaScript |  |  |  |
 | Machine Learning Projects for .NET Developers |  |  |  |
+| The Definitive Guide to Machine Learning Operations in AWS |  |  |  |
+| Tiny Machine Learning Quickstart |  |  |  |
+| Machine Learning for Decision Makers |  |  |  |
+| Distributed Machine Learning with PySpark |  |  |  |
+| MLOps with Ray |  |  |  |
+| AI-Powered Ecommerce |  |  |  |
+| Learn Data Mining Through Excel |  |  |  |
+| Extending Oracle Application Express with Oracle Cloud Features |  |  |  |
+| Machine Learning and AI for Healthcare |  |  |  |
+| Beginning MLOps with MLFlow |  |  |  |
+| Machine Learning for Oracle Database Professionals |  |  |  |
+| Robotic Process Automation Using UiPath StudioX |  |  |  |
+| Machine Learning with the Raspberry Pi |  |  |  |
+| Industrial Machine Learning |  |  |  |
+| Practical Machine Learning with AWS |  |  |  |
+| Deploying AI in the Enterprise |  |  |  |
+| Agile Machine Learning |  |  |  |
+| Artificial Intelligence Basics |  |  |  |
+| Understand, Manage, and Prevent Algorithmic Bias |  |  |  |
+| Practical Machine Learning with Rust |  |  |  |
+| MATLAB Machine Learning Recipes |  |  |  |
+| Beginning Machine Learning in IOS |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1161,8 +1203,8 @@
 |--------|----------|--------|----------|
 | Boardroom Cybersecurity |  |  |  |
 | RISC-V Assembly Language Programming  |  |  |  |
-|   |  |  |  |
-|   |  |  |  |
+| Design and Deploy Microsoft Defender for IoT  |  |  |  |
+| Machine Learning for Auditors  |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
@@ -1306,7 +1348,7 @@
 |--------|----------|--------|----------|
 | Pro Perl Programming |  |  |  |
 | Beginning Perl Web Development |  |  |  |
-|  |  |  |  |
+| PRACTICAL RUST PROJECTS |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
