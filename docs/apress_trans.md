@@ -81,6 +81,7 @@
 | Introducing Qt 6 |  |  |  |
 | Design Patterns in Modern C++20 |  |  |  |
 | Pointers in C Programming |  |  |  |
+| Pointers in C  |  |  |  |
 | Clean C++20 |  |  |  |
 | Programming Arduino Projects with the PIC Microcontroller |  |  |  |
 | C++20 Recipes |  |  |  |
@@ -103,8 +104,19 @@
 | Sudoku Programming with C |  |  |  |
 | Beginning C for Arduino |  |  |  |
 | Software engineering |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Exploring C++ 11 |  |  |  |
+| C++ Quick Syntax Reference |  |  |  |
+| Advanced Topics in C |  |  |  |
+| Learn C on the Mac |  |  |  |
+| A Programmer's Guide to C# 5.0 |  |  |  |
+| Expert Visual C++/CLI |  |  |  |
+| C++/CLI: The Visual C++ Language for .NET |  |  |  |
+| Illustrated C# 2005 |  |  |  |
+| Event-based programming |  |  |  |
+| A Programmer's Introduction to C# 2.0 |  |  |  |
+| ASP.NET 1.1 Solutions Toolkit |  |  |  |
+| Pro .NET 2.0 Graphics Programming |  |  |  |
+| Beginning .NET Game Programming in VB .NET |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -184,10 +196,28 @@
 | Pro XAML with C#: Application Development Strategies |  |  |  |
 | NET IL Assembler |  |  |  |
 | Pro Unity game development with C# |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| C# Quick Syntax Reference |  |  |  |
+| Pro ASP.NET 4.5 in C# |  |  |  |
+| Learn 2D Game Development with C# |  |  |  |
+| Pro ASP.NET MVC 5 |  |  |  |
+| Expert C# 5.0 |  |  |  |
+| Pro ASP.NET MVC 4 |  |  |  |
+| Real world Windows 8 development |  |  |  |
+| Metro Revealed |  |  |  |
+| Pro WPF 4.5 in C# |  |  |  |
+| Beginning Silverlight 5 in C# |  |  |  |
+| Pro Application Lifecycle Management with Visual Studio 2012 |  |  |  |
+| Pro ASP.NET MVC 3 Framework |  |  |  |
+| Pro .NET 4 Parallel Programming in C# |  |  |  |
+| Pro ASP.NET 4 CMS |  |  |  |
+| Visual C# 2010 Recipes |  |  |  |
+| Expert .NET Micro Framework |  |  |  |
+| Beginning C# 2008 |  |  |  |
+| Accelerated C# 2008 |  |  |  |
+| LINQ for Visual C# 2005 |  |  |  |
+| Silverlight and ASP. NET Revealed |  |  |  |
+| GDI+ programming in C♯ and VB . NET |  |  |  |
+| Real World ASP.NET |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -275,6 +305,9 @@
 | Database Design and Relational Theory |  |  |  |
 | Database Systems |  |  |  |
 | Expert Oracle database architecture |  |  |  |
+| Expert Oracle Enterprise Manager 12c |  |  |  |
+| Oracle Exadata Survival Guide |  |  |  |
+| The Relational Database Dictionary |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -352,6 +385,8 @@
 | Kubernetes : Preparing for the CKA and CKAD Certifications |  |  |  |
 | The Cloud Leader’s Handbook |  |  |  |
 | Certified OpenStack Administrator Study Guide |  |  |  |
+| Cloud Standards |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -546,7 +581,7 @@
 | Advanced R 4 Data Programming and the Cloud |  |  |  |
 | Using R for Statistics |  |  |  |
 | MATLAB linear algebra |  |  |  |
-|  |  |  |  |
+| MATLAB Control Systems Engineering |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1228,8 +1263,18 @@
 | Learn iOS 8 App Development |  |  |  |
 | Beginning iPhone development with Swift |  |  |  |
 | Learn SpriteBuilder for iOS game development |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Pro Objective-C |  |  |  |
+| Objective-C programmer's reference |  |  |  |
+| Objective-C Quick Syntax Reference  |  |  |  |
+| Learn Cocoa On The Mac |  |  |  |
+| Learn iOS 7 App Development |  |  |  |
+| Objective-C Recipes |  |  |  |
+| Learn Objective-C on the Mac |  |  |  |
+| Windows 8 Apps Revealed Using XAML and C# |  |  |  |
+| Objective-C for Absolute Beginners |  |  |  |
+| Developing C# apps for iPhone and iPad using MonoTouch |  |  |  |
+| Meet the Kinect |  |  |  |
+| Learn Objective-C for Java developers |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1306,7 +1351,7 @@
 | Beginning CakePHP |  |  |  |
 | Beginning PHP and PostgreSQL E-Commerce |  |  |  |
 | Beginning PHP and PostgreSQL 8 |  |  |  |
-|  |  |  |  |
+| The Definitive Guide to Drupal 7 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1485,8 +1530,8 @@
 | RISC-V Assembly Language Programming  |  |  |  |
 | Design and Deploy Microsoft Defender for IoT  |  |  |  |
 | Machine Learning for Auditors  |  |  |  |
-|   |  |  |  |
-|   |  |  |  |
+|  Hacking the Kinect |  |  |  |
+|  Advanced IP Routing in Cisco® Networks |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
@@ -1645,7 +1690,7 @@
 | 3D Printed Science Projects Volume 2 |  |  |  |
 | Common Lisp Recipes |  |  |  |
 | 3D Printing with MatterControl |  |  |  |
-|  |  |  |  |
+| Practical ruby projects |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
