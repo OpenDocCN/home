@@ -462,6 +462,7 @@
 | Google Cloud Platform for Data Science |  |  |  |
 | Learn R for Applied Statistics |  |  |  |
 | Veracity of Big Data |  |  |  |
+| ———— | ———— | ———— | ———— |
 | Big Data Analytics with Spark |  |  |  |
 | Energy efficient servers |  |  |  |
 | Drones to Go |  |  |  |
@@ -1040,6 +1041,7 @@
 | Agile Machine Learning |  |  |  |
 | Artificial Intelligence Basics |  |  |  |
 | Understand, Manage, and Prevent Algorithmic Bias |  |  |  |
+| ———— | ———— | ———— | ———— |
 | Practical Machine Learning with Rust |  |  |  |
 | MATLAB Machine Learning Recipes |  |  |  |
 | Beginning Machine Learning in IOS |  |  |  |
