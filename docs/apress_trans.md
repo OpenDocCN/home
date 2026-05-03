@@ -80,7 +80,29 @@
 | Modern C Up and Running |  |  |  |
 | Introducing Qt 6 |  |  |  |
 | Design Patterns in Modern C++20 |  |  |  |
-|  |  |  |  |
+| Pointers in C Programming |  |  |  |
+| Clean C++20 |  |  |  |
+| Programming Arduino Projects with the PIC Microcontroller |  |  |  |
+| C++20 Recipes |  |  |  |
+| C++20 Quick Syntax Reference |  |  |  |
+| Beginning C++20 |  |  |  |
+| Introducing Algorithms in C |  |  |  |
+| String Algorithms in C |  |  |  |
+| Intermediate C Programming for the PIC Microcontroller |  |  |  |
+| Options and Derivatives Programming in C++20 |  |  |  |
+| C++ 17 standard library quick reference |  |  |  |
+| Modern C Quick Syntax Reference |  |  |  |
+| Numerical C |  |  |  |
+| C++ for Lazy Programmers |  |  |  |
+| Beginning C++17 |  |  |  |
+| C++17 Quick Syntax Reference |  |  |  |
+| Low-Level Programming |  |  |  |
+| C Recipes |  |  |  |
+| Practical C  |  |  |  |
+| Exploring the Raspberry Pi 2 with C++ |  |  |  |
+| Sudoku Programming with C |  |  |  |
+| Beginning C for Arduino |  |  |  |
+| Software engineering |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -142,6 +164,26 @@
 | Test Your Skills in C# Programming |  |  |  |
 | Pro C# 10 with .NET 6 |  |  |  |
 | Pro C# 9 with . NET 5 |  |  |  |
+| Microsoft Blazor |  |  |  |
+| Practical Entity Framework Core 6 |  |  |  |
+| Game Development with MonoGame |  |  |  |
+| C# 8 Quick Syntax Reference |  |  |  |
+| Pro C# 8 with .NET Core 3 |  |  |  |
+| Xamarin. Forms solutions |  |  |  |
+| C# 7 Quick Syntax Reference |  |  |  |
+| Pro Windows 10 Development with Xaml and C# 7 |  |  |  |
+| Beginning XML with C# 7 |  |  |  |
+| Code Generation with Roslyn |  |  |  |
+| Pro C# 7 |  |  |  |
+| The C# Programmer’s Study Guide (MCSD) : Exam: 70-483 |  |  |  |
+| Reusable Firmware Development  |  |  |  |
+| Architectural Patterns |  |  |  |
+| C# and XML Primer |  |  |  |
+| Pro ASP.NET Core MVC |  |  |  |
+| C sharp 6.0 and the .Net 4.6 framework |  |  |  |
+| Pro XAML with C#: Application Development Strategies |  |  |  |
+| NET IL Assembler |  |  |  |
+| Pro Unity game development with C# |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -230,6 +272,9 @@
 | Practical MonogoDB |  |  |  |
 | The Definitive Guide to MongoDB: |  |  |  |
 | Practical Azure SQL Database for Modern Developers |  |  |  |
+| Database Design and Relational Theory |  |  |  |
+| Database Systems |  |  |  |
+| Expert Oracle database architecture |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -306,7 +351,7 @@
 | Kubernetes Native Development |  |  |  |
 | Kubernetes : Preparing for the CKA and CKAD Certifications |  |  |  |
 | The Cloud Leader’s Handbook |  |  |  |
-|  |  |  |  |
+| Certified OpenStack Administrator Study Guide |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -342,6 +387,7 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Neural Networks in Unity |  |  |  |
 | Artificial Neural Networks with Java |  |  |  |
 | Real-Time IoT Imaging with Deep Neural Networks |  |  |  |
 | Mastering Text Analytics |  |  |  |
@@ -498,6 +544,9 @@
 | Drones to Go |  |  |  |
 | Audio Visualization Using ThMAD |  |  |  |
 | Advanced R 4 Data Programming and the Cloud |  |  |  |
+| Using R for Statistics |  |  |  |
+| MATLAB linear algebra |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -549,7 +598,7 @@
 | Creating Apps with React Native |  |  |  |
 | React Native for Mobile Development |  |  |  |
 | Practical React Native |  |  |  |
-|  |  |  |  |
+| Electron : from beginner to pro |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -647,6 +696,10 @@
 | Pro JavaScript Performance |  |  |  |
 | Pro JavaScript™ RIA Techniques |  |  |  |
 | Pro JavaScript Design Patterns |  |  |  |
+| Creating Google Chrome Extensions |  |  |  |
+| Custom SharePoint solutions with HTML and JavaScript for SharePoint 2013 and SharePoint Online |  |  |  |
+| CSS Quick Syntax Reference Guide |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -994,7 +1047,10 @@
 | The Definitive Guide to Linux Network Programming |  |  |  |
 | Beginning PowerShell for SharePoint 2016 |  |  |  |
 | Raspberry Pi IoT Projects |  |  |  |
-|  |  |  |  |
+| Raspberry Pi for Arduino Users |  |  |  |
+| Custom Raspberry Pi Interfaces |  |  |  |
+| Shell Scripting Recipes |  |  |  |
+| Pro PowerShell for Microsoft Azure |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1027,6 +1083,23 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Modern Data Mining Algorithms in C++ and CUDA C |  |  |  |
+| Deep Belief Nets in C++ and CUDA C: Volume 1 |  |  |  |
+| Assessing and Improving Prediction and Classification |  |  |  |
+| Data Mining Algorithms in C++ |  |  |  |
+| Deep Belief Nets in C++ and CUDA C: Volume 3 |  |  |  |
+| Deep Belief Nets in C++ and CUDA C: Volume 2 |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Time Series Algorithms Recipes |  |  |  |
 | Hyperparameter Optimization in Machine Learning |  |  |  |
 | Advanced Forecasting with Python |  |  |  |
@@ -1149,9 +1222,12 @@
 | Windows 8 Apps Revealed Using HTML5 and JavaScript |  |  |  |
 | Beginning Iphone and Ipad Web Apps |  |  |  |
 | Objective-C Programming For Beginners |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Practical Fashion Tech |  |  |  |
+| Program the Internet of Things with Swift for iOS |  |  |  |
+| Xamarin mobile application development |  |  |  |
+| Learn iOS 8 App Development |  |  |  |
+| Beginning iPhone development with Swift |  |  |  |
+| Learn SpriteBuilder for iOS game development |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1558,4 +1634,20 @@
 | Practical Rust Web Projects |  |  |  |
 | Rust for the IoT |  |  |  |
 | Becoming a Leader in Product Development  |  |  |  |
+| Improving the Quality of ABAP Code |  |  |  |
+| Mastering 3D Printing |  |  |  |
+| Disruption in the Boardroom |  |  |  |
+| Introducing Vala Programming |  |  |  |
+| Programming Persistent Memory |  |  |  |
+| Beginning X64 Assembly Programming |  |  |  |
+| Mastering 3D Printing in the Classroom, Library, and Lab |  |  |  |
+| Bottlenecks : Aligning UX Design with User Psychology |  |  |  |
+| 3D Printed Science Projects Volume 2 |  |  |  |
+| Common Lisp Recipes |  |  |  |
+| 3D Printing with MatterControl |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
