@@ -62,10 +62,24 @@
 | Advanced Arduino Techniques in Science |  |  |  |
 | C Programming for System, Network, and Cloud Engineers |  |  |  |
 | Practical system programming with C |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Game Development Concepts in C++ |  |  |  |
+| Today's TBB: C++ Parallel Programming with Threading Building Blocks |  |  |  |
+| Data Structures in Depth Using C++ |  |  |  |
+| Mindful Design |  |  |  |
+| Beginning C |  |  |  |
+| Practical C++ STL Programming |  |  |  |
+| Beginning C++ Compilers |  |  |  |
+| Zephyr RTOS Embedded C Programming |  |  |  |
+| Game Development with Unreal Engine 5 Volume 1 |  |  |  |
+| Modern C for Absolute Beginners |  |  |  |
+| The Joys of Hashing |  |  |  |
+| Options and Derivatives Programming in C++23 |  |  |  |
+| Beginning C++23 |  |  |  |
+| Introductory Programs with the 32-bit PIC Microcontroller |  |  |  |
+| Modern Parallel Programming with C++ and Assembly Language |  |  |  |
+| Modern C Up and Running |  |  |  |
+| Introducing Qt 6 |  |  |  |
+| Design Patterns in Modern C++20 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -112,6 +126,22 @@
 | Real-Time Web Application Development |  |  |  |
 | Learn Unity for Windows 10 Game Development |  |  |  |
 | Beginning MongoDB Atlas with .NET |  |  |  |
+| Delegates, Events, and Lambda Expressions in C# |  |  |  |
+| Selenium WebDriver Recipes in C# |  |  |  |
+| Azure Adventures with C# |  |  |  |
+| Parallel Programming with C# And . NET |  |  |  |
+| INTRODUCING .NET MAUI |  |  |  |
+| Game Programming with Unity and C# |  |  |  |
+| Introducing Functional Programming Using C# |  |  |  |
+| Software Architecture by Example |  |  |  |
+| INTRODUCING SOFTWARE VERIFICATION WITH DAFNY LANGUAGE |  |  |  |
+| Design Patterns in .NET 6 |  |  |  |
+| Troubleshooting SharePoint |  |  |  |
+| Target C# |  |  |  |
+| Unity Networking Fundamentals |  |  |  |
+| Test Your Skills in C# Programming |  |  |  |
+| Pro C# 10 with .NET 6 |  |  |  |
+| Pro C# 9 with . NET 5 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -199,7 +229,7 @@
 | Pro MongoDBTM Development |  |  |  |
 | Practical MonogoDB |  |  |  |
 | The Definitive Guide to MongoDB: |  |  |  |
-|  |  |  |  |
+| Practical Azure SQL Database for Modern Developers |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -275,7 +305,7 @@
 | Kubernetes Application Developer |  |  |  |
 | Kubernetes Native Development |  |  |  |
 | Kubernetes : Preparing for the CKA and CKAD Certifications |  |  |  |
-|  |  |  |  |
+| The Cloud Leader’s Handbook |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -963,6 +993,12 @@
 | Pro Linux Embedded Systems |  |  |  |
 | The Definitive Guide to Linux Network Programming |  |  |  |
 | Beginning PowerShell for SharePoint 2016 |  |  |  |
+| Raspberry Pi IoT Projects |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1112,7 +1148,7 @@
 | Windows 10 Development Recipes |  |  |  |
 | Windows 8 Apps Revealed Using HTML5 and JavaScript |  |  |  |
 | Beginning Iphone and Ipad Web Apps |  |  |  |
-|  |  |  |  |
+| Objective-C Programming For Beginners |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1352,7 +1388,7 @@
 | Basic Python for Data Management, Finance, and Marketing |  |  |  |
 | Econometrics and Data Science |  |  |  |
 | Personal Finance With Python |  |  |  |
-|  |  |  |  |
+| Practical C++20 Financial Programming |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1521,5 +1557,5 @@
 | Beginning Rust |  |  |  |
 | Practical Rust Web Projects |  |  |  |
 | Rust for the IoT |  |  |  |
-|  |  |  |  |
+| Becoming a Leader in Product Development  |  |  |  |
 |  |  |  |  |
