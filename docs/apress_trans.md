@@ -60,6 +60,13 @@
 |--------|----------|--------|----------|
 | Coding the Arduino |  |  |  |
 | Junk Box Arduino |  |  |  |
+| Pro Arduino |  |  |  |
+| Beginning Arduino |  |  |  |
+| Learn Electronics with Arduino |  |  |  |
+| Practical Arduino Engineering |  |  |  |
+| Beginning Arduino Programming |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -223,7 +230,7 @@
 | Procedural Generation in Godot |  |  |  |
 | The Technical–Business Equilibrium |  |  |  |
 | Practical Microsoft Visual Studio 2015 |  |  |  |
-|  |  |  |  |
+| Beginning Windows 8.1 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -331,9 +338,16 @@
 | Beginning SQL Server Reporting Services |  |  |  |
 | Dynamic SQL |  |  |  |
 | Oracle RMAN for Absolute Beginners |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Practical Oracle database appliance |  |  |  |
+| Oracle Enterprise Manager 12c Command-Line Interface |  |  |  |
+| RMAN recipes for Oracle database 12c |  |  |  |
+| Pro Oracle Database 12c Administration |  |  |  |
+| SQL Server 2012 Data Integration Recipes |  |  |  |
+| Pro SQL Server 2012 Integration Services |  |  |  |
+| Beginning Database Design |  |  |  |
+| Pro Oracle database 11g administration |  |  |  |
+| Expert Oracle Exadata |  |  |  |
+| Expert Oracle GoldenGate |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -427,9 +441,11 @@
 | Mastering Zoho CRM |  |  |  |
 | Pro Continuous Delivery |  |  |  |
 | IoT Solutions in Microsoft's Azure IoT Suite |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Running mainframe z on distributed platforms |  |  |  |
+| Microsoft Dynamics CRM API Development for Online and On-Premise Environments |  |  |  |
+| Pro Puppet |  |  |  |
+| Intel Trusted Execution Technology for Server Platforms |  |  |  |
+| Agile Marketing |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -721,10 +737,13 @@
 | Big Data Bootcamp |  |  |  |
 | MATLAB Differential Equations |  |  |  |
 | Transportation management with SAP TM 9.0 |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Advanced Excel essential |  |  |  |
+| Pro SharePoint disaster recovery and high availability |  |  |  |
+| Big Data Analytics Using Splunk |  |  |  |
+| Rapid graphs with Tableau 8 |  |  |  |
+| Metrics : How to Improve Key Business Results |  |  |  |
+| Learn Excel 2011 for MAC |  |  |  |
+| CRM Fundamentals |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -884,6 +903,11 @@
 | CSS Quick Syntax Reference Guide |  |  |  |
 | Adobe InDesign Interactive Digital Publishing |  |  |  |
 | Reactive Programming with Node.js |  |  |  |
+| Foundation Game Design with ActionScript 3.0 |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1246,6 +1270,8 @@
 | Windows Group Policy Troubleshooting |  |  |  |
 | Windows File System Troubleshooting |  |  |  |
 | File Management Made Simple, Windows Edition |  |  |  |
+| Rethinking the Internet of Things |  |  |  |
+| Building Your Own Electronics Lab |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1431,6 +1457,18 @@
 | Troubleshooting Xcode |  |  |  |
 | Swift OS X programming for absolute beginners |  |  |  |
 | The business of iOS app development |  |  |  |
+| Android fragments |  |  |  |
+| Android Arcade Game App |  |  |  |
+| WinRT Revealed |  |  |  |
+| Pro Windows Embedded Compact 7 |  |  |  |
+| IOS Sensor Apps with Arduino |  |  |  |
+| Pro Core Data for iOS |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1671,6 +1709,9 @@
 | Econometrics and Data Science |  |  |  |
 | Personal Finance With Python |  |  |  |
 | Practical C++20 Financial Programming |  |  |  |
+| Data Modeling of Financial Derivatives |  |  |  |
+| Plan Your Financial Future  |  |  |  |
+| Traders at Work |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1890,7 +1931,13 @@
 | Success in Programming |  |  |  |
 | Advanced Negotiation Techniques |  |  |  |
 | Design Thinking for Entrepreneurs and Small Businesses |  |  |  |
-|  |  |  |  |
+| Exporting Essentials |  |  |  |
+| Unite the Tribes |  |  |  |
+| Plan to Turn Your Company Around in 90 Days |  |  |  |
+| Due Diligence and the Business Transaction |  |  |  |
+| Biztalk 2013 Edi For Health Care |  |  |  |
+| Why Startups Fail |  |  |  |
+| Startup : An Insider's Guide to Launching and Running a Business |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
