@@ -58,6 +58,14 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Coding the Arduino |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Arduino Music and Audio Projects |  |  |  |
 | Advanced Arduino Techniques in Science |  |  |  |
 | C Programming for System, Network, and Cloud Engineers |  |  |  |
@@ -110,14 +118,6 @@
 | Learn C on the Mac |  |  |  |
 | Expert Visual C++/CLI |  |  |  |
 | C++/CLI: The Visual C++ Language for .NET |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 | Advanced C and C++ Compiling | | C/C++ 高级编译教程 | |
 | Advanced Metaprogramming in Classic C++ | | C++ 高级元编程 | |
 | Beginning Unreal Engine 4 Blueprints Visual Scripting | | UE4 蓝图可视化脚本入门手册 | |
@@ -228,6 +228,10 @@
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Advanced ASP.NET Core 3 Security | | Asp.NET Core3 安全高级教程 | |
 | Advanced Unity Game Development | | Unity 高级游戏开发教程 | |
 | Applied ASP.NET 4 in Context | | Asp.NET4 应用上下文教程 | |
@@ -317,10 +321,10 @@
 | SQL Server Big Data Clusters |  |  |  |
 | Understanding Oracle APEX 20 Application Development |  |  |  |
 | Pro Oracle Database 18c Administration |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Next Generation Databases |  |  |  |
+| Oracle DBA Mentor |  |  |  |
+| Beginning Backup and Restore for SQL Server |  |  |  |
+| SQL Server Advanced Data Types  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -411,6 +415,15 @@
 | Practical DataOps |  |  |  |
 | The Art of Immutable Architecture |  |  |  |
 | Beginning Git and GitHub |  |  |  |
+| Beginning Serverless Computing |  |  |  |
+| Practical Microsoft Azure IaaS |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -485,7 +498,7 @@
 | The Definitive Guide to Conversational AI with Dialogflow and Google Cloud |  |  |  |
 | The AI-Powered Workplace |  |  |  |
 | Keeping Your AI Under Control |  |  |  |
-|  |  |  |  |
+| How to Compete in the Age of Artificial Intelligence |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -658,7 +671,19 @@
 | Learn RStudio IDE |  |  |  |
 | Soft Skills to Advance Your Developer Career |  |  |  |
 | Data Versus Democracy |  |  |  |
-|  |  |  |  |
+| R Quick Syntax Reference |  |  |  |
+| How to Speak Tech |  |  |  |
+| Crushing the IT Gender Bias |  |  |  |
+| Introducing Dart Sass |  |  |  |
+| Practical Data Science  |  |  |  |
+| Beginning DAX with Power BI |  |  |  |
+| Learn Salesforce Lightning |  |  |  |
+| Data Integration Life Cycle Management with SSIS |  |  |  |
+| Pro Power BI desktop |  |  |  |
+| PySpark Recipes |  |  |  |
+| Practical Enterprise Data Lake Insights |  |  |  |
+| Domain-Specific Languages in R |  |  |  |
+| Ruby Data Processing |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1167,6 +1192,13 @@
 | Pro PowerShell for Microsoft Azure |  |  |  |
 | Essential PowerShell for Office 365 |  |  |  |
 | Build Your Own IoT Platform |  |  |  |
+| Windows Networking Troubleshooting |  |  |  |
+| Beginning Fedora Desktop Fedora 28 Edition |  |  |  |
+| Pro PowerShell Desired State Configuration |  |  |  |
+| Deploying Chromebooks in the Classroom |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1347,6 +1379,10 @@
 | Smart Mobility |  |  |  |
 | Data Structures and Algorithms in Swift |  |  |  |
 | Swift 5 for Absolute Beginners |  |  |  |
+| Learn Computer Science with Swift |  |  |  |
+| Making sense of sensors |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1425,6 +1461,11 @@
 | Beginning PHP and PostgreSQL E-Commerce |  |  |  |
 | Beginning PHP and PostgreSQL 8 |  |  |  |
 | The Definitive Guide to Drupal 7 |  |  |  |
+| Decoupled Drupal in Practice |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1606,8 +1647,8 @@
 |  Hacking the Kinect |  |  |  |
 |  Advanced IP Routing in Cisco® Networks |  |  |  |
 |  SOLVING IDENTITY MANAGEMENT IN MODERN APPLICATIONS |  |  |  |
-|   |  |  |  |
-|   |  |  |  |
+|  Practical Contiki-NG |  |  |  |
+| Firewalls Dont Stop Dragons  |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
@@ -1784,7 +1825,10 @@
 | Codeless Data Structures and Algorithms |  |  |  |
 | Modern Web Performance Optimization |  |  |  |
 | Building a career in software engineering |  |  |  |
-|  |  |  |  |
+| UX Fundamentals for Non-UX Professionals |  |  |  |
+| Voice User Interface Design |  |  |  |
+| Programming 101 |  |  |  |
+| Principles of Package Design |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
