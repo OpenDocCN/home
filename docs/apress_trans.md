@@ -34,7 +34,7 @@
 | Beginning Blockchain |  |  |  |
 | Blockchain Basics |  |  |  |
 | The Blockchain Alternative |  |  |  |
-|  |  |  |  |
+| NFTs for Business |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -117,6 +117,9 @@
 | ASP.NET 1.1 Solutions Toolkit |  |  |  |
 | Pro .NET 2.0 Graphics Programming |  |  |  |
 | Beginning .NET Game Programming in VB .NET |  |  |  |
+| Procedural Generation in Godot |  |  |  |
+| The Technical–Business Equilibrium |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -308,6 +311,10 @@
 | Expert Oracle Enterprise Manager 12c |  |  |  |
 | Oracle Exadata Survival Guide |  |  |  |
 | The Relational Database Dictionary |  |  |  |
+| SQL Server Analytical Toolkit |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -386,6 +393,10 @@
 | The Cloud Leader’s Handbook |  |  |  |
 | Certified OpenStack Administrator Study Guide |  |  |  |
 | Cloud Standards |  |  |  |
+| Solutions Architecture |  |  |  |
+| Everyday Enterprise Architecture |  |  |  |
+| Ansible for VMware by Example |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -458,7 +469,7 @@
 | Hands-on Azure Cognitive Services |  |  |  |
 | Artificial Neural Networks with TensorFlow 2 |  |  |  |
 | Oracle Digital Assistant  |  |  |  |
-|  |  |  |  |
+| Understanding Generative AI Business Applications |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -582,6 +593,19 @@
 | Using R for Statistics |  |  |  |
 | MATLAB linear algebra |  |  |  |
 | MATLAB Control Systems Engineering |  |  |  |
+| A Friendly Guide to Data Science |  |  |  |
+| JULIA QUICK SYNTAX REFERENCE |  |  |  |
+| The decision maker's handbook to data science |  |  |  |
+| Data Science Solutions on Azure |  |  |  |
+| Essential Data Analytics, Data Science, and AI |  |  |  |
+| Tech SEO Guide |  |  |  |
+| The Ultimate Guide to Functions in Power Query |  |  |  |
+| Predicting the Unknown |  |  |  |
+| Functional Programming in R 4 |  |  |  |
+| Architecture of advanced numerical analysis systems |  |  |  |
+| Make Your Data Speak |  |  |  |
+| Artificial Intelligence and Human Evolution |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1086,7 +1110,7 @@
 | Custom Raspberry Pi Interfaces |  |  |  |
 | Shell Scripting Recipes |  |  |  |
 | Pro PowerShell for Microsoft Azure |  |  |  |
-|  |  |  |  |
+| Essential PowerShell for Office 365 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1185,7 +1209,6 @@
 | Agile Machine Learning |  |  |  |
 | Artificial Intelligence Basics |  |  |  |
 | Understand, Manage, and Prevent Algorithmic Bias |  |  |  |
-| ———— | ———— | ———— | ———— |
 | Practical Machine Learning with Rust |  |  |  |
 | MATLAB Machine Learning Recipes |  |  |  |
 | Beginning Machine Learning in IOS |  |  |  |
@@ -1197,17 +1220,6 @@
 | Machine Learning and Cognition in Enterprises |  |  |  |
 | Efficient learning machines |  |  |  |
 | Predictive Analytics with Microsoft Azure Machine Learning |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 | Beginning Robotics with Raspberry Pi and Arduino Using Python and OpenCV | | 树莓派和 Arduino 机器人入门手册 | |
 | Building Computer Vision Applications Using Artificial Neural Networks | | ANN 计算机视觉应用构建指南 | |
 | Convolutional Neural Networks with Swift for Tensorflow | | TensorFlow CNN 与 Swift 教程 | |
@@ -1275,6 +1287,12 @@
 | Developing C# apps for iPhone and iPad using MonoTouch |  |  |  |
 | Meet the Kinect |  |  |  |
 | Learn Objective-C for Java developers |  |  |  |
+| Modern Concurrency on Apple Platforms |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1691,6 +1709,15 @@
 | Common Lisp Recipes |  |  |  |
 | 3D Printing with MatterControl |  |  |  |
 | Practical ruby projects |  |  |  |
+| SnowPro(tm) Core Certification Companion |  |  |  |
+| Boozang From the Trenches |  |  |  |
+| Understanding Semiconductors |  |  |  |
+| The Rational Software Engineer |  |  |  |
+| Practical Haskell |  |  |  |
+| The Startup Players Handbook |  |  |  |
+| Quantitative User Experience Research |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
