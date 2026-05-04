@@ -35,7 +35,7 @@
 | Blockchain Basics |  |  |  |
 | The Blockchain Alternative |  |  |  |
 | NFTs for Business |  |  |  |
-|  |  |  |  |
+| How to Create a Web3 Startup |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -313,6 +313,11 @@
 | Oracle Exadata Survival Guide |  |  |  |
 | The Relational Database Dictionary |  |  |  |
 | SQL Server Analytical Toolkit |  |  |  |
+| SQL Server Data Automation Through Frameworks |  |  |  |
+| SQL Server Big Data Clusters |  |  |  |
+| Understanding Oracle APEX 20 Application Development |  |  |  |
+| Pro Oracle Database 18c Administration |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -397,9 +402,15 @@
 | Solutions Architecture |  |  |  |
 | Everyday Enterprise Architecture |  |  |  |
 | Ansible for VMware by Example |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Snowflake Access Control |  |  |  |
+| Mastering Snowflake Solutions |  |  |  |
+| Building the Snowflake Data Cloud |  |  |  |
+| Practical GitOps |  |  |  |
+| Learn API Testing |  |  |  |
+| Snowflake Essentials |  |  |  |
+| Practical DataOps |  |  |  |
+| The Art of Immutable Architecture |  |  |  |
+| Beginning Git and GitHub |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -471,9 +482,9 @@
 | Artificial Neural Networks with TensorFlow 2 |  |  |  |
 | Oracle Digital Assistant  |  |  |  |
 | Understanding Generative AI Business Applications |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| The Definitive Guide to Conversational AI with Dialogflow and Google Cloud |  |  |  |
+| The AI-Powered Workplace |  |  |  |
+| Keeping Your AI Under Control |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -606,6 +617,49 @@
 | Architecture of advanced numerical analysis systems |  |  |  |
 | Make Your Data Speak |  |  |  |
 | Artificial Intelligence and Human Evolution |  |  |  |
+| Beginning Data Science in R 4 |  |  |  |
+| Up and Running with DAX for Power BI |  |  |  |
+| Data Science and Analytics for SMEs |  |  |  |
+| R 4 Data Science Quick Reference |  |  |  |
+| Powerful Presentations |  |  |  |
+| How to Develop Your Creative Identity at Work |  |  |  |
+| Arduino Measurements in Science |  |  |  |
+| Link technology to your long-terms business goals |  |  |  |
+| Chief sustainability officers at work |  |  |  |
+| SAP SuccessFactors Talent. Volume 1 |  |  |  |
+| Pro Power BI Theme Creation |  |  |  |
+| Splunk Certified Study Guide |  |  |  |
+| Data Modeling with SAP BW/4HANA 2.0 |  |  |  |
+| Google Data Studio for Beginners |  |  |  |
+| SAP SuccessFactors Talent. Volume 2 |  |  |  |
+| CRAN Recipes |  |  |  |
+| Pro Ember Data |  |  |  |
+| Introducing Robotic Process Automation to Your Organization |  |  |  |
+| Data Science with the Raspberry Pi |  |  |  |
+| Effective Digital Learning |  |  |  |
+| Beginning R 4 |  |  |  |
+| Immersive 3D Design Visualization |  |  |  |
+| The Customer Trap |  |  |  |
+| Essential Excel 2019 |  |  |  |
+| Beginning Data Science, IoT, and AI on Single Board Computers |  |  |  |
+| The Chief Data Officer Management Handbook |  |  |  |
+| Designing Digital Products for Kids |  |  |  |
+| Practical MATLAB Modeling with Simulink |  |  |  |
+| Marketing Analytics Roadmap |  |  |  |
+| Data Teams |  |  |  |
+| Learn Data Science Using SAS Studio |  |  |  |
+| Data Mashup with Microsoft Excel Using Power Query and M |  |  |  |
+| CUSTOM FIORI APPLICATIONS IN SAP HANA |  |  |  |
+| Building a Data Integration Team |  |  |  |
+| User-Driven Applications for Research and Science |  |  |  |
+| Practical MATLAB |  |  |  |
+| Introducing Markdown and Pandoc |  |  |  |
+| Beginning MATLAB and Simulink |  |  |  |
+| Learn RStudio IDE |  |  |  |
+| Soft Skills to Advance Your Developer Career |  |  |  |
+| Data Versus Democracy |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -861,7 +915,7 @@
 |--------|----------|--------|----------|
 | Full-Stack Web Development with Jakarta EE and Vue.js |  |  |  |  |
 | Beginning Cloud Native Development with MicroProfile, Jakarta EE, and Kubernetes |  |  |  |
-|  |  |  |  |
+| Essential Java for AP CompSci |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1112,7 +1166,7 @@
 | Shell Scripting Recipes |  |  |  |
 | Pro PowerShell for Microsoft Azure |  |  |  |
 | Essential PowerShell for Office 365 |  |  |  |
-|  |  |  |  |
+| Build Your Own IoT Platform |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1289,10 +1343,10 @@
 | Meet the Kinect |  |  |  |
 | Learn Objective-C for Java developers |  |  |  |
 | Modern Concurrency on Apple Platforms |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Beginning Windows Mixed Reality Programming |  |  |  |
+| Smart Mobility |  |  |  |
+| Data Structures and Algorithms in Swift |  |  |  |
+| Swift 5 for Absolute Beginners |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1551,6 +1605,13 @@
 | Machine Learning for Auditors  |  |  |  |
 |  Hacking the Kinect |  |  |  |
 |  Advanced IP Routing in Cisco® Networks |  |  |  |
+|  SOLVING IDENTITY MANAGEMENT IN MODERN APPLICATIONS |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
@@ -1717,8 +1778,12 @@
 | Practical Haskell |  |  |  |
 | The Startup Players Handbook |  |  |  |
 | Quantitative User Experience Research |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Essential Computer Science |  |  |  |
+| Programming Algorithms in Lisp |  |  |  |
+| Beginning Ruby 3 |  |  |  |
+| Codeless Data Structures and Algorithms |  |  |  |
+| Modern Web Performance Optimization |  |  |  |
+| Building a career in software engineering |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
