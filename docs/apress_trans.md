@@ -59,7 +59,7 @@
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
 | Coding the Arduino |  |  |  |
-|  |  |  |  |
+| Junk Box Arduino |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -222,7 +222,7 @@
 | Beginning .NET Game Programming in VB .NET |  |  |  |
 | Procedural Generation in Godot |  |  |  |
 | The Technical–Business Equilibrium |  |  |  |
-|  |  |  |  |
+| Practical Microsoft Visual Studio 2015 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -325,6 +325,13 @@
 | Oracle DBA Mentor |  |  |  |
 | Beginning Backup and Restore for SQL Server |  |  |  |
 | SQL Server Advanced Data Types  |  |  |  |
+| Pro Oracle Identity and Access Management Suite |  |  |  |
+| Beginning SQL Server R Services |  |  |  |
+| Beginning SQL Queries |  |  |  |
+| Beginning SQL Server Reporting Services |  |  |  |
+| Dynamic SQL |  |  |  |
+| Oracle RMAN for Absolute Beginners |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -417,9 +424,9 @@
 | Beginning Git and GitHub |  |  |  |
 | Beginning Serverless Computing |  |  |  |
 | Practical Microsoft Azure IaaS |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Mastering Zoho CRM |  |  |  |
+| Pro Continuous Delivery |  |  |  |
+| IoT Solutions in Microsoft's Azure IoT Suite |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -684,6 +691,38 @@
 | Practical Enterprise Data Lake Insights |  |  |  |
 | Domain-Specific Languages in R |  |  |  |
 | Ruby Data Processing |  |  |  |
+| Beginning Julia Programming |  |  |  |
+| Functional Data Structures in R |  |  |  |
+| Pro Tableau |  |  |  |
+| Advanced Object-Oriented Programming in R |  |  |  |
+| Introduction to Scilab |  |  |  |
+| Business Analytics Using R |  |  |  |
+| SAP MII |  |  |  |
+| Introduction to MATLAB for Engineers and Scientists |  |  |  |
+| Metaprogramming in R |  |  |  |
+| Beginning Power BI |  |  |  |
+| Models to Code |  |  |  |
+| Advanced R |  |  |  |
+| Practical Hadoop Migration |  |  |  |
+| Scalable big data architecture |  |  |  |
+| Data Science : Create Teams That Ask the Right Questions and Deliver Real Value |  |  |  |
+| Disruptive Analytics |  |  |  |
+| Digital Image Compositing Fundamentals |  |  |  |
+| Practical Graph Analytics with Apache Giraph |  |  |  |
+| Big Data and The Internet of Things |  |  |  |
+| Beginning Big Data with Power BI and Excel 2013 |  |  |  |
+| Practical Business Analytics Using SAS |  |  |  |
+| Practical Google Analytics and Google Tag Manager for Developers |  |  |  |
+| Extending SSIS with .NET Scripting |  |  |  |
+| Pro Salesforce Analytics Cloud |  |  |  |
+| MATLAB Recipes |  |  |  |
+| Beginning Apache Cassandra Development |  |  |  |
+| Data Scientists at Work |  |  |  |
+| Big Data Bootcamp |  |  |  |
+| MATLAB Differential Equations |  |  |  |
+| Transportation management with SAP TM 9.0 |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -738,6 +777,11 @@
 | React Native for Mobile Development |  |  |  |
 | Practical React Native |  |  |  |
 | Electron : from beginner to pro |  |  |  |
+| Web Programming with Dart |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -838,8 +882,8 @@
 | Creating Google Chrome Extensions |  |  |  |
 | Custom SharePoint solutions with HTML and JavaScript for SharePoint 2013 and SharePoint Online |  |  |  |
 | CSS Quick Syntax Reference Guide |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Adobe InDesign Interactive Digital Publishing |  |  |  |
+| Reactive Programming with Node.js |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1196,9 +1240,12 @@
 | Beginning Fedora Desktop Fedora 28 Edition |  |  |  |
 | Pro PowerShell Desired State Configuration |  |  |  |
 | Deploying Chromebooks in the Classroom |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Expanding Your Raspberry Pi |  |  |  |
+| Building a Virtual Assistant for Raspberry Pi |  |  |  |
+| The Accidental SysAdmin Handbook |  |  |  |
+| Windows Group Policy Troubleshooting |  |  |  |
+| Windows File System Troubleshooting |  |  |  |
+| File Management Made Simple, Windows Edition |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1381,9 +1428,9 @@
 | Swift 5 for Absolute Beginners |  |  |  |
 | Learn Computer Science with Swift |  |  |  |
 | Making sense of sensors |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Troubleshooting Xcode |  |  |  |
+| Swift OS X programming for absolute beginners |  |  |  |
+| The business of iOS app development |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1462,7 +1509,7 @@
 | Beginning PHP and PostgreSQL 8 |  |  |  |
 | The Definitive Guide to Drupal 7 |  |  |  |
 | Decoupled Drupal in Practice |  |  |  |
-|  |  |  |  |
+| The Definitive Guide to Shopify Themes |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1649,8 +1696,8 @@
 |  SOLVING IDENTITY MANAGEMENT IN MODERN APPLICATIONS |  |  |  |
 |  Practical Contiki-NG |  |  |  |
 | Firewalls Dont Stop Dragons  |  |  |  |
-|   |  |  |  |
-|   |  |  |  |
+|  A practical guide to TPM 2.0 |  |  |  |
+| Embedded Firmware Solutions  |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
@@ -1826,9 +1873,25 @@
 | Modern Web Performance Optimization |  |  |  |
 | Building a career in software engineering |  |  |  |
 | UX Fundamentals for Non-UX Professionals |  |  |  |
+| Fashion Figures |  |  |  |
+| Envisioning Holograms |  |  |  |
 | Voice User Interface Design |  |  |  |
 | Programming 101 |  |  |  |
 | Principles of Package Design |  |  |  |
+| PrestaShop recipes |  |  |  |
+| Practical Concurrent Haskell |  |  |  |
+| MANAGING HUMANS |  |  |  |
+| Leap Motion for Developers |  |  |  |
+| Beginning WSO2 ESB |  |  |  |
+| Exporting : The Definitive Guide to Selling Abroad Profitably |  |  |  |
+| MVVM in Delphi |  |  |  |
+| Introducing Web Development |  |  |  |
+| Erlang and Elixir for Imperative Programmers |  |  |  |
+| Success in Programming |  |  |  |
+| Advanced Negotiation Techniques |  |  |  |
+| Design Thinking for Entrepreneurs and Small Businesses |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
