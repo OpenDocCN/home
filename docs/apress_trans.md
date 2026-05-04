@@ -65,7 +65,7 @@
 | Learn Electronics with Arduino |  |  |  |
 | Practical Arduino Engineering |  |  |  |
 | Beginning Arduino Programming |  |  |  |
-|  |  |  |  |
+| Arduino Projects to Save the World |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -231,6 +231,9 @@
 | The Technical–Business Equilibrium |  |  |  |
 | Practical Microsoft Visual Studio 2015 |  |  |  |
 | Beginning Windows 8.1 |  |  |  |
+| Pro Dynamic .Net 4.0 applications |  |  |  |
+| Expert F♯ 2.0 |  |  |  |
+| Pro ADO.NET Data Services |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -348,6 +351,12 @@
 | Pro Oracle database 11g administration |  |  |  |
 | Expert Oracle Exadata |  |  |  |
 | Expert Oracle GoldenGate |  |  |  |
+| Pro Oracle SQL |  |  |  |
+| DBA Survivor |  |  |  |
+| Troubleshooting Oracle performance |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -683,6 +692,7 @@
 | Practical MATLAB Modeling with Simulink |  |  |  |
 | Marketing Analytics Roadmap |  |  |  |
 | Data Teams |  |  |  |
+| ———— | ———— | ———— | ———— |
 | Learn Data Science Using SAS Studio |  |  |  |
 | Data Mashup with Microsoft Excel Using Power Query and M |  |  |  |
 | CUSTOM FIORI APPLICATIONS IN SAP HANA |  |  |  |
@@ -733,6 +743,7 @@
 | Pro Salesforce Analytics Cloud |  |  |  |
 | MATLAB Recipes |  |  |  |
 | Beginning Apache Cassandra Development |  |  |  |
+| ———— | ———— | ———— | ———— |
 | Data Scientists at Work |  |  |  |
 | Big Data Bootcamp |  |  |  |
 | MATLAB Differential Equations |  |  |  |
@@ -1272,7 +1283,7 @@
 | File Management Made Simple, Windows Edition |  |  |  |
 | Rethinking the Internet of Things |  |  |  |
 | Building Your Own Electronics Lab |  |  |  |
-|  |  |  |  |
+| Beginning Linux programming |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1463,8 +1474,8 @@
 | Pro Windows Embedded Compact 7 |  |  |  |
 | IOS Sensor Apps with Arduino |  |  |  |
 | Pro Core Data for iOS |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| iPhone App Development: The Missing Manual |  |  |  |
+| Android Essentials |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1938,6 +1949,9 @@
 | Biztalk 2013 Edi For Health Care |  |  |  |
 | Why Startups Fail |  |  |  |
 | Startup : An Insider's Guide to Launching and Running a Business |  |  |  |
+| Effective Frontline Fundraising |  |  |  |
+| APM Best Practices |  |  |  |
+| Founders at Work |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
