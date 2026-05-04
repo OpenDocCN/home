@@ -108,17 +108,8 @@
 | C++ Quick Syntax Reference |  |  |  |
 | Advanced Topics in C |  |  |  |
 | Learn C on the Mac |  |  |  |
-| A Programmer's Guide to C# 5.0 |  |  |  |
 | Expert Visual C++/CLI |  |  |  |
 | C++/CLI: The Visual C++ Language for .NET |  |  |  |
-| Illustrated C# 2005 |  |  |  |
-| Event-based programming |  |  |  |
-| A Programmer's Introduction to C# 2.0 |  |  |  |
-| ASP.NET 1.1 Solutions Toolkit |  |  |  |
-| Pro .NET 2.0 Graphics Programming |  |  |  |
-| Beginning .NET Game Programming in VB .NET |  |  |  |
-| Procedural Generation in Godot |  |  |  |
-| The Technical–Business Equilibrium |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -221,6 +212,15 @@
 | Silverlight and ASP. NET Revealed |  |  |  |
 | GDI+ programming in C♯ and VB . NET |  |  |  |
 | Real World ASP.NET |  |  |  |
+| A Programmer's Guide to C# 5.0 |  |  |  |
+| Illustrated C# 2005 |  |  |  |
+| Event-based programming |  |  |  |
+| A Programmer's Introduction to C# 2.0 |  |  |  |
+| ASP.NET 1.1 Solutions Toolkit |  |  |  |
+| Pro .NET 2.0 Graphics Programming |  |  |  |
+| Beginning .NET Game Programming in VB .NET |  |  |  |
+| Procedural Generation in Godot |  |  |  |
+| The Technical–Business Equilibrium |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
