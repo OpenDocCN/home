@@ -183,7 +183,6 @@
 | Troubleshooting SharePoint |  |  |  |
 | Target C# |  |  |  |
 | Unity Networking Fundamentals |  |  |  |
-| ———— | ———— | ———— | ———— |
 | Test Your Skills in C# Programming |  |  |  |
 | Pro C# 10 with .NET 6 |  |  |  |
 | Pro C# 9 with . NET 5 |  |  |  |
@@ -349,6 +348,7 @@
 | SQL Server 2012 Data Integration Recipes |  |  |  |
 | Pro SQL Server 2012 Integration Services |  |  |  |
 | Beginning Database Design |  |  |  |
+| ———— | ———— | ———— | ———— |
 | Pro Oracle database 11g administration |  |  |  |
 | Expert Oracle Exadata |  |  |  |
 | Expert Oracle GoldenGate |  |  |  |
@@ -399,6 +399,7 @@
 | SQL server alwaysOn revealed |  |  |  |
 | Pro SQL Server on Microsoft Azure |  |  |  |
 | Pro SQL Server Internals |  |  |  |
+| ———— | ———— | ———— | ———— |
 | Practical Maintenance Plans in SQL Server |  |  |  |
 | Pro SQL Server Administration |  |  |  |
 | Introducing SQLite for mobile developers |  |  |  |
@@ -501,6 +502,7 @@
 | Snowflake Access Control |  |  |  |
 | Mastering Snowflake Solutions |  |  |  |
 | Building the Snowflake Data Cloud |  |  |  |
+| ———— | ———— | ———— | ———— |
 | Practical GitOps |  |  |  |
 | Learn API Testing |  |  |  |
 | Snowflake Essentials |  |  |  |
@@ -1542,6 +1544,7 @@
 | Build iOS Database Apps with Swift and SQLite |  |  |  |
 | Flutter App Development |  |  |  |
 | Android Continuous Integration |  |  |  |
+| ———— | ———— | ———— | ———— |
 | Beginning Android Games For Android 7.0 |  |  |  |
 | GUI Design for Android Apps |  |  |  |
 | Migrating to Swift from Android |  |  |  |
@@ -1593,6 +1596,7 @@
 | Pro iOS Continuous Integration |  |  |  |
 | Learn Sprite Kit for iOS Game Development |  |  |  |
 | Beginning iPhone Development Exploring the iOS SDK |  |  |  |
+| ———— | ———— | ———— | ———— |
 | Pro iOS Persistence |  |  |  |
 | Beginning iOS Media App Development |  |  |  |
 | More iOS 6 development |  |  |  |
