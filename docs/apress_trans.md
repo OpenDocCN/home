@@ -151,6 +151,15 @@
 
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
+| Ultra-fast ASP.NET |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | Building Web Applications with .NET Core 2.1 and JavaScript |  |  |  |
 | Building Web Applications with Visual Studio 2017 |  |  |  |
 | Beginning jQuery 2 for ASP.NET Developers |  |  |  |
@@ -346,8 +355,69 @@
 | Pro Oracle SQL |  |  |  |
 | DBA Survivor |  |  |  |
 | Troubleshooting Oracle performance |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Narrative SQL |  |  |  |
+| Expert Scripting and Automation for SQL Server DBAs |  |  |  |
+| Azure SQL Revealed |  |  |  |
+| MASTERING THE SNOWFLAKE SQL API WITH LARAVEL 10 |  |  |  |
+| PRACTICAL GRAPH STRUCTURES IN SQL SERVER AND AZURE SQL |  |  |  |
+| Pro SQL Server 2022 Wait Statistics |  |  |  |
+| Modern Oracle Database programming |  |  |  |
+| Getting Started with SQL and Databases |  |  |  |
+| Pro T-SQL 2022 |  |  |  |
+| EXPERT PERFORMANCE INDEXING IN AZURE SQL AND SQL SERVER 2022 |  |  |  |
+| Pro SQL Server 2022 Administration |  |  |  |
+| Analytics Optimization with Columnstore Indexes in Microsoft SQL Server |  |  |  |
+| Practical Database Auditing for Microsoft SQL Server and Azure SQL |  |  |  |
+| Practical CockroachDB |  |  |  |
+| Pro Oracle SQL Development |  |  |  |
+| SQL Server 2022 Revealed |  |  |  |
+| Azure Arc-enabled Data Services Revealed |  |  |  |
+| Building Custom Tasks for SQL Server Integration Services |  |  |  |
+| Pro SQL server relational database design and implementation |  |  |  |
+| High Performance SQL Server |  |  |  |
+| SQL SERVER 2019 ALWAYS ON |  |  |  |
+| PostgreSQL Query Optimization |  |  |  |
+| Refactoring Legacy T-SQL for Improved Performance |  |  |  |
+| Practical Oracle SQL |  |  |  |
+| Pro T-SQL 2019 |  |  |  |
+| Query Store for SQL Server 2019 |  |  |  |
+| Expert Performance Indexing in SQL Server 2019 |  |  |  |
+| Beginning Oracle SQL for Oracle Database 18c |  |  |  |
+| Expert T-SQL Window Functions in SQL Server 2019 |  |  |  |
+| Pro SQL Server 2019 Administration |  |  |  |
+| Pro SQL Server 2019 Wait Statistics |  |  |  |
+| SQL Primer |  |  |  |
+| Oracle SQL Revealed |  |  |  |
+| Expert SQL Server Transactions and Locking |  |  |  |
+| Visual Design of GraphQL Data |  |  |  |
+| Expert Apache Cassandra Administration |  |  |  |
+| XML and JSON Recipes for SQL Server |  |  |  |
+| SQL Server 2017 Query Performance Tuning |  |  |  |
+| DATABASE BENCHMARKING AND STRESS TESTING |  |  |  |
+| Expert SQL Server In-Memory OLTP |  |  |  |
+| Beginning Oracle Application Express 5 |  |  |  |
+| SQL server alwaysOn revealed |  |  |  |
+| Pro SQL Server on Microsoft Azure |  |  |  |
+| Pro SQL Server Internals |  |  |  |
+| Practical Maintenance Plans in SQL Server |  |  |  |
+| Pro SQL Server Administration |  |  |  |
+| Introducing SQLite for mobile developers |  |  |  |
+| SQL Server Query Performance Tuning |  |  |  |
+| Expert Oracle SQL |  |  |  |
+| SQL Server Integration Services Design Patterns |  |  |  |
+| Oracle SQL tuning with Oracle SQLTXPLAIN |  |  |  |
+| Pro SQL Server 2012 Practices |  |  |  |
+| Pro SQL Database for Windows Azure |  |  |  |
+| Pro SQL Server 2012 Reporting Services |  |  |  |
+| Oracle Database 11g Performance Tuning Recipes |  |  |  |
+| Pro ASP.Net for SQL server |  |  |  |
+| Expert PL SQL Practices |  |  |  |
+| Oracle Application Express 4 recipes |  |  |  |
+| The Definitive Guide to SQLite |  |  |  |
+| Expert SQL server 2008 development |  |  |  |
+| SQL Server 2008 Query Performance Tuning Distilled |  |  |  |
+| Oracle SQL recipes |  |  |  |
+| Applied Mathematics for Database Professionals |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -748,7 +818,7 @@
 | Metrics : How to Improve Key Business Results |  |  |  |
 | Learn Excel 2011 for MAC |  |  |  |
 | CRM Fundamentals |  |  |  |
-|  |  |  |  |
+| Pro DAX with Power BI |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1469,7 +1539,7 @@
 | Pro Core Data for iOS |  |  |  |
 | iPhone App Development: The Missing Manual |  |  |  |
 | Android Essentials |  |  |  |
-|  |  |  |  |
+| Build iOS Database Apps with Swift and SQLite |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
