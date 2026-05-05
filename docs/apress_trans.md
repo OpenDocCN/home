@@ -978,7 +978,7 @@
 | Adobe InDesign Interactive Digital Publishing |  |  |  |
 | Reactive Programming with Node.js |  |  |  |
 | Foundation Game Design with ActionScript 3.0 |  |  |  |
-|  |  |  |  |
+| Pro Android 4 Pro Android Four |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1540,10 +1540,17 @@
 | iPhone App Development: The Missing Manual |  |  |  |
 | Android Essentials |  |  |  |
 | Build iOS Database Apps with Swift and SQLite |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Flutter App Development |  |  |  |
+| Android Continuous Integration |  |  |  |
+| Beginning Android Games For Android 7.0 |  |  |  |
+| GUI Design for Android Apps |  |  |  |
+| Migrating to Swift from Android |  |  |  |
+| The business of Android apps development |  |  |  |
+| Pro Android Graphics |  |  |  |
+| Android Apps for Absolute Beginners |  |  |  |
+| Practical Android 4 Games Development |  |  |  |
+| Pro Android 3 |  |  |  |
+| Pro Android media |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1560,7 +1567,7 @@
 | Android Software Internals Quick Reference | | 安卓软件内部原理快速参考 | |
 | Android Tablets Made Simple | | 轻松学安卓平板 | |
 | Android TV apps development | | 安卓电视应用开发教程 | |
-| Android TV apps development | | 安卓 x86 教程 | |
+| Android on x86 | | 安卓 x86 教程 | |
 | Android Studio Game Development | | AndroidStudio 游戏开发指南 | |
 | Android studio new media fundamentals | | AndroidStudio 新媒体基础知识 | |
 | Beginning Android ADK with Arduino | | ADK Arduino 入门指南 | |
