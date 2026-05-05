@@ -234,14 +234,6 @@
 | Pro Dynamic .Net 4.0 applications |  |  |  |
 | Expert F♯ 2.0 |  |  |  |
 | Pro ADO.NET Data Services |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 | Advanced ASP.NET Core 3 Security | | Asp.NET Core3 安全高级教程 | |
 | Advanced Unity Game Development | | Unity 高级游戏开发教程 | |
 | Applied ASP.NET 4 in Context | | Asp.NET4 应用上下文教程 | |
@@ -503,6 +495,7 @@
 | Introduction to Responsible AI |  |  |  |
 | Introduction to Prescriptive AI |  |  |  |
 | The Art of Reinforcement Learning |  |  |  |
+| ———— | ———— | ———— | ———— |
 | Precision Health and Artificial Intelligence |  |  |  |
 | Practical Explainable AI Using Python |  |  |  |
 | Introduction to Transformers for NLP |  |  |  |
