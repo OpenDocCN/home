@@ -152,7 +152,7 @@
 | 英文名 | 最新版本 | 中文名 | 现有版本 |
 |--------|----------|--------|----------|
 | Ultra-fast ASP.NET |  |  |  |
-|  |  |  |  |
+| Azure and Xamarin Form |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -819,7 +819,7 @@
 | Learn Excel 2011 for MAC |  |  |  |
 | CRM Fundamentals |  |  |  |
 | Pro DAX with Power BI |  |  |  |
-|  |  |  |  |
+| STATISTICAL ANALYSIS WITH SWIFT |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -1551,6 +1551,86 @@
 | Practical Android 4 Games Development |  |  |  |
 | Pro Android 3 |  |  |  |
 | Pro Android media |  |  |  |
+| Extreme Mobile |  |  |  |
+| App Development Using iOS iCloud |  |  |  |
+| iOS architecture patterns |  |  |  |
+| Build Mobile Apps with SwiftUI and Firebase |  |  |  |
+| Asynchronous programming with SwiftUI and Combine |  |  |  |
+| Beginning iPhone Development with SwiftUI |  |  |  |
+| SWIFT RECIPES FOR IOS DEVELOPERS |  |  |  |
+| UI Design for IOS App Development |  |  |  |
+| Modularizing Legacy Projects Using TDD |  |  |  |
+| Beginning IOS Game Center and GameKit |  |  |  |
+| Develop Intelligent IOS Apps with Swift |  |  |  |
+| Getting Started with WidgetKit |  |  |  |
+| Learn FileMaker Pro 19 |  |  |  |
+| Test-Driven Development in Swift |  |  |  |
+| Build Location Apps on IOS with Swift  |  |  |  |
+| Pro IOS Testing |  |  |  |
+| Apple MacOS and IOS System Administration |  |  |  |
+| Implementing IOS and MacOS Documents with the Files App |  |  |  |
+| 100 questions and answers to help you land your dream iOS job |  |  |  |
+| Beginning IPhone Development with Swift 5 |  |  |  |
+| Beginning ARKit for iPhone and iPad |  |  |  |
+| Beginning Reactive Programming with Swift |  |  |  |
+| Beginning Xamarin Development for the Mac |  |  |  |
+| Build, Run, and Sell Your Apple Consulting Practice |  |  |  |
+| Swift 4 for Absolute Beginners |  |  |  |
+| Learn IOS Application Distribution |  |  |  |
+| Learn Unity 2017 for IOS Game Development |  |  |  |
+| Beginning Swift Games Development for IOS |  |  |  |
+| Developing Professional IPhone Photography |  |  |  |
+| macOS Programming for Absolute Beginners |  |  |  |
+| Troubleshooting IOS |  |  |  |
+| IOS Code Testing |  |  |  |
+| Learn Apple HomeKit on IOS |  |  |  |
+| Beginning iPhone Development with Swift 3 |  |  |  |
+| Pro design patterns in Swift |  |  |  |
+| Swift Game Programming for Absolute Beginners |  |  |  |
+| Designing for iOS with Sketch |  |  |  |
+| iOS eCommerce App Development with Parse |  |  |  |
+| Pro iOS table views and collection views : using Swift 2 |  |  |  |
+| Pro iOS Continuous Integration |  |  |  |
+| Learn Sprite Kit for iOS Game Development |  |  |  |
+| Beginning iPhone Development Exploring the iOS SDK |  |  |  |
+| Pro iOS Persistence |  |  |  |
+| Beginning iOS Media App Development |  |  |  |
+| More iOS 6 development |  |  |  |
+| IOS 7 development recipes |  |  |  |
+| Beginning iOS Social Games |  |  |  |
+| Learn Design for iOS Development |  |  |  |
+| Learn Unity 4 for iOS Game Development |  |  |  |
+| Learn Cocos2d 2 |  |  |  |
+| Learn Cocoa Touch for iOS |  |  |  |
+| IOS 5 Recipes |  |  |  |
+| Beginning IOS Storyboarding |  |  |  |
+| IPhone and IPad Apps for Absolute Beginners |  |  |  |
+| Beginning IOS 6 Games Development |  |  |  |
+| Pro Multithreading and Memory Management for IOS and OS X |  |  |  |
+| Learn Objective-C on the Mac For OS X and iOS |  |  |  |
+| Learn Lua for iOS Game Development |  |  |  |
+| Foundation IPhone App Development |  |  |  |
+| Beginning IOS 5 Development |  |  |  |
+| Pro iOS 5 Augmented reality |  |  |  |
+| IPod touch made simple |  |  |  |
+| Pro IOS Apps Performance Optimization and Tuning |  |  |  |
+| Beginning iOS 5 games development |  |  |  |
+| Pro iOS 5 Tools |  |  |  |
+| Beginning iOS apps with Facebook and Twitter APIs |  |  |  |
+| OS X and iOS Kernel Programming |  |  |  |
+| Beginning IOS Game Center and Game Kit |  |  |  |
+| IOS Wow Factor |  |  |  |
+| iPhone 4S Made Simple |  |  |  |
+| Pro OpenGL ES for iOS |  |  |  |
+| iPad 2 Made Simple |  |  |  |
+| Learn IPhone 5 and IPad 2 Cocos2D Game Development |  |  |  |
+| Migrating to iPhone and iPad for .NET Developers |  |  |  |
+| Taking Your iPad 2 to the Max |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
