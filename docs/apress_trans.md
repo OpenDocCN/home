@@ -757,7 +757,6 @@
 | Practical MATLAB Modeling with Simulink |  |  |  |
 | Marketing Analytics Roadmap |  |  |  |
 | Data Teams |  |  |  |
-| ———— | ———— | ———— | ———— |
 | Learn Data Science Using SAS Studio |  |  |  |
 | Data Mashup with Microsoft Excel Using Power Query and M |  |  |  |
 | CUSTOM FIORI APPLICATIONS IN SAP HANA |  |  |  |
@@ -783,6 +782,7 @@
 | Domain-Specific Languages in R |  |  |  |
 | Ruby Data Processing |  |  |  |
 | Beginning Julia Programming |  |  |  |
+| ———— | ———— | ———— | ———— |
 | Functional Data Structures in R |  |  |  |
 | Pro Tableau |  |  |  |
 | Advanced Object-Oriented Programming in R |  |  |  |
@@ -808,7 +808,6 @@
 | Pro Salesforce Analytics Cloud |  |  |  |
 | MATLAB Recipes |  |  |  |
 | Beginning Apache Cassandra Development |  |  |  |
-| ———— | ———— | ———— | ———— |
 | Data Scientists at Work |  |  |  |
 | Big Data Bootcamp |  |  |  |
 | MATLAB Differential Equations |  |  |  |
