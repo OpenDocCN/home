@@ -1543,7 +1543,6 @@
 | Build iOS Database Apps with Swift and SQLite |  |  |  |
 | Flutter App Development |  |  |  |
 | Android Continuous Integration |  |  |  |
-| ———— | ———— | ———— | ———— |
 | Beginning Android Games For Android 7.0 |  |  |  |
 | GUI Design for Android Apps |  |  |  |
 | Migrating to Swift from Android |  |  |  |
@@ -1568,6 +1567,7 @@
 | Learn FileMaker Pro 19 |  |  |  |
 | Test-Driven Development in Swift |  |  |  |
 | Build Location Apps on IOS with Swift  |  |  |  |
+| ———— | ———— | ———— | ———— |
 | Pro IOS Testing |  |  |  |
 | Apple MacOS and IOS System Administration |  |  |  |
 | Implementing IOS and MacOS Documents with the Files App |  |  |  |
@@ -1595,7 +1595,6 @@
 | Pro iOS Continuous Integration |  |  |  |
 | Learn Sprite Kit for iOS Game Development |  |  |  |
 | Beginning iPhone Development Exploring the iOS SDK |  |  |  |
-| ———— | ———— | ———— | ———— |
 | Pro iOS Persistence |  |  |  |
 | Beginning iOS Media App Development |  |  |  |
 | More iOS 6 development |  |  |  |
